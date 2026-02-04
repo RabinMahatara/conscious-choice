@@ -1,0 +1,469 @@
+{
+  "id": 5,
+  "title": "Ethics & Integrity",
+  "subtitle": "Moral Foundations",
+  "description": "Develop a strong ethical compass for navigating complex moral dilemmas. This module helps you understand how to maintain integrity in environments where corruption and nepotism are normalized, and how to make principled decisions even under pressure.",
+  "completionMessage": "You have developed a strong ethical foundation for making principled decisions. You now understand how to maintain personal integrity even in difficult situations, recognize conflicts of interest, and contribute to building more transparent and fair systems in your sphere of influence.",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Supervisor's Personal Tasks",
+      "scenario": "You work at a government office where your supervisor regularly asks staff to complete personal tasks during work hours (grocery shopping, picking up children). Everyone complies without question, and refusing might affect your job security and promotion prospects.",
+      "question": "What is the most ethical response?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comply with requests to maintain job security and workplace relationships",
+          "correct": false,
+          "feedback": "Compliance with unethical requests normalizes corruption and misuse of public resources."
+        },
+        {
+          "letter": "B",
+          "text": "Politely decline personal tasks while maintaining excellence in official duties",
+          "correct": true,
+          "feedback": "This maintains personal integrity while demonstrating that professional excellence doesn't require ethical compromise."
+        },
+        {
+          "letter": "C",
+          "text": "Report the supervisor to higher authorities immediately",
+          "correct": false,
+          "feedback": "While reporting might ultimately be necessary, direct escalation without trying other approaches first might be premature."
+        },
+        {
+          "letter": "D",
+          "text": "Complete the tasks but document everything for potential future complaints",
+          "correct": false,
+          "feedback": "Doing unethical acts while documenting them still involves participating in misconduct."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Civil service reform and anti-corruption: Does ethics training reduce corruption?",
+          "url": "https://giace.org/projects/ethics"
+        },
+        {
+          "title": "Public Sector Integrity in Nepal",
+          "url": "https://www.nasc.org.np/sites/default/files/Public%20Sector%20Integrity%20in%20Nepal.pdf"
+        },
+        {
+          "title": "Civil servants' integrity in public sector: the case of Nepal",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9830169/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Business Permit Bribe",
+      "scenario": "You're a small business owner and a government inspector suggests that a small gift would help speed up your permit approval process. Without the permit, your business opening will be delayed by several months, affecting your employees' jobs.",
+      "question": "What demonstrates long-term ethical thinking?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pay the bribe since it's small and helps your employees keep their jobs",
+          "correct": false,
+          "feedback": "Even small bribes perpetuate corrupt systems and create expectations for future payments."
+        },
+        {
+          "letter": "B",
+          "text": "Refuse the bribe and document the solicitation while pursuing legal channels",
+          "correct": true,
+          "feedback": "This upholds integrity while creating potential for systemic change through proper channels."
+        },
+        {
+          "letter": "C",
+          "text": "Pay the bribe but anonymously report the inspector afterward",
+          "correct": false,
+          "feedback": "Paying then reporting is inconsistent and might not be taken seriously by authorities."
+        },
+        {
+          "letter": "D",
+          "text": "Close your business rather than participate in any corruption",
+          "correct": false,
+          "feedback": "While maintaining integrity, closing the business punishes employees and doesn't address the corrupt system."
+        }
+      ],
+      "resources": [
+        {
+          "title": "An Analytical Study on Political Patronage Corruption in Nepal",
+          "url": "https://www.nepjol.info/index.php/cognition/article/download/74767/57363/216627"
+        },
+        {
+          "title": "The Five Biggest Factors Challenging Start-ups in Nepal",
+          "url": "https://wijar.westcliff.edu/wp-content/uploads/2021/12/Sushant-word.pdf"
+        },
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Job Interview Nepotism",
+      "scenario": "During a job interview, you discover that the interviewer is your distant relative. They hint that this family connection will help your application, even though other candidates might be more qualified.",
+      "question": "How do you handle this ethical dilemma?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accept the advantage since family connections are normal in Nepal",
+          "correct": false,
+          "feedback": "Accepting unfair advantages perpetuates nepotism and undermines merit-based systems."
+        },
+        {
+          "letter": "B",
+          "text": "Acknowledge the relationship but insist on fair evaluation based on merit",
+          "correct": true,
+          "feedback": "This acknowledges the situation honestly while advocating for ethical hiring practices."
+        },
+        {
+          "letter": "C",
+          "text": "Immediately withdraw from the interview process",
+          "correct": false,
+          "feedback": "While ethically pure, withdrawal doesn't address the systemic problem or test your actual qualifications."
+        },
+        {
+          "letter": "D",
+          "text": "Don't mention the relationship and proceed normally",
+          "correct": false,
+          "feedback": "Ignoring obvious conflicts of interest doesn't resolve the ethical issue."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Nepotism and Governance: Analyzing the Trend of Continuity of Administrative Malpractices in Nepal",
+          "url": "https://jndmeerut.org/wp-content/uploads/2025/01/5.pdf"
+        },
+        {
+          "title": "Patron-Client Politics and Governance System in Nepal",
+          "url": "https://dms.nasc.org.np/sites/default/files/documents/Patron-Client%20Politics%20and%20Governance%20System%20in%20Nepal.pdf"
+        },
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Friend's Expense Fraud",
+      "scenario": "You discover that your close friend has been inflating their expenses on company reimbursement forms. They justify this by saying the company pays them less than they deserve, and everyone does it.",
+      "question": "What is your ethical responsibility?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ignore it since it's not your business and doesn't affect you directly",
+          "correct": false,
+          "feedback": "Ignoring fraud when you have knowledge of it enables continued unethical behavior."
+        },
+        {
+          "letter": "B",
+          "text": "Talk to your friend about the risks and encourage honest reporting",
+          "correct": true,
+          "feedback": "This attempts to address the issue through relationship while giving your friend opportunity to correct the behavior."
+        },
+        {
+          "letter": "C",
+          "text": "Report the fraud to company management immediately",
+          "correct": false,
+          "feedback": "While ultimately this might be necessary, trying direct communication first respects the friendship while addressing the issue."
+        },
+        {
+          "letter": "D",
+          "text": "Start inflating your own expenses since it seems to be accepted practice",
+          "correct": false,
+          "feedback": "Joining unethical behavior because others do it compromises your own integrity."
+        }
+      ],
+      "resources": [
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        },
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        },
+        {
+          "title": "Public Integrity overview (Transparency International Knowledge Hub)",
+          "url": "https://knowledgehub.transparency.org/guide/international-anti-corruption-commitments/8344"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Scholarship Through Connections",
+      "scenario": "You're offered a scholarship for higher education, but you discover that your family used political connections to influence the selection process. The scholarship could significantly improve your future prospects, but you're not sure you were the most deserving candidate.",
+      "question": "What demonstrates ethical integrity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accept the scholarship since it's already been offered and will help your future",
+          "correct": false,
+          "feedback": "Accepting advantages gained through unfair means perpetuates inequitable systems."
+        },
+        {
+          "letter": "B",
+          "text": "Investigate the selection process and accept only if it was conducted fairly",
+          "correct": true,
+          "feedback": "This seeks to understand the situation fully before making decisions based on actual facts rather than assumptions."
+        },
+        {
+          "letter": "C",
+          "text": "Decline the scholarship immediately to avoid any ethical compromise",
+          "correct": false,
+          "feedback": "While ethically cautious, declining without full information might be unnecessary if the process was actually fair."
+        },
+        {
+          "letter": "D",
+          "text": "Accept the scholarship but promise to help other deserving students in the future",
+          "correct": false,
+          "feedback": "Future good intentions don't justify accepting unfairly obtained advantages."
+        }
+      ],
+      "resources": [
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        },
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        },
+        {
+          "title": "Public Integrity overview (Transparency International Knowledge Hub)",
+          "url": "https://knowledgehub.transparency.org/guide/international-anti-corruption-commitments/8344"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Student Grant Committee",
+      "scenario": "You are on a student committee distributing small grants for projects. Your close friend applies with a weak proposal and hints that your friendship should count for something.",
+      "question": "What is the most ethical response?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Support your friend because relationships matter more than rules",
+          "correct": false,
+          "feedback": "This is favoritism and undermines trust in fair systems."
+        },
+        {
+          "letter": "B",
+          "text": "Declare the conflict of interest and avoid influencing the decision",
+          "correct": true,
+          "feedback": "This protects integrity and keeps the process credible."
+        },
+        {
+          "letter": "C",
+          "text": "Reject your friend's proposal publicly to show you are fair",
+          "correct": false,
+          "feedback": "Public humiliation is unnecessary and can be unethical too."
+        },
+        {
+          "letter": "D",
+          "text": "Approve your friend but ask them to keep it secret",
+          "correct": false,
+          "feedback": "Secrecy is a sign of misconduct and increases long-term risk."
+        }
+      ],
+      "resources": [
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        },
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        },
+        {
+          "title": "Public Integrity overview (Transparency International Knowledge Hub)",
+          "url": "https://knowledgehub.transparency.org/guide/international-anti-corruption-commitments/8344"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Falsifying Team Report",
+      "scenario": "Your coworker suggests changing a few numbers in a report to make the team look better, saying, 'It's harmless and helps everyone.'",
+      "question": "What demonstrates integrity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adjust the numbers because it benefits the team",
+          "correct": false,
+          "feedback": "Small dishonesty often grows and damages credibility."
+        },
+        {
+          "letter": "B",
+          "text": "Refuse and propose honest ways to communicate performance and improvement plans",
+          "correct": true,
+          "feedback": "This protects trust while still addressing the real goal: improvement."
+        },
+        {
+          "letter": "C",
+          "text": "Agree but blame the coworker if caught",
+          "correct": false,
+          "feedback": "Shifting blame compounds unethical behavior."
+        },
+        {
+          "letter": "D",
+          "text": "Stay silent and let others decide",
+          "correct": false,
+          "feedback": "Silence can enable wrongdoing."
+        }
+      ],
+      "resources": [
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        },
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        },
+        {
+          "title": "Public Integrity overview (Transparency International Knowledge Hub)",
+          "url": "https://knowledgehub.transparency.org/guide/international-anti-corruption-commitments/8344"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Found Wallet Dilemma",
+      "scenario": "You find a wallet or a mobile phone in a public bus. Friends say, 'Keep it -- whoever lost it was careless.'",
+      "question": "What is the most ethical action?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep it because you found it",
+          "correct": false,
+          "feedback": "Finding something doesn't create ownership; keeping it is theft."
+        },
+        {
+          "letter": "B",
+          "text": "Try to return it through reasonable steps (contact info, bus staff, local lost-and-found)",
+          "correct": true,
+          "feedback": "This respects others' rights and supports a culture of trust."
+        },
+        {
+          "letter": "C",
+          "text": "Post it online with the owner's personal details",
+          "correct": false,
+          "feedback": "This may expose the owner to scams or privacy risks."
+        },
+        {
+          "letter": "D",
+          "text": "Sell it quickly before someone claims it",
+          "correct": false,
+          "feedback": "Profiting from someone's loss is unethical and risky."
+        }
+      ],
+      "resources": [
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        },
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        },
+        {
+          "title": "Public Integrity overview (Transparency International Knowledge Hub)",
+          "url": "https://knowledgehub.transparency.org/guide/international-anti-corruption-commitments/8344"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Group Assignment Free-Rider",
+      "scenario": "In a group assignment, one member contributes nothing but wants equal credit. The group wants to list them anyway to avoid conflict.",
+      "question": "What is the most ethical approach?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Give equal credit because conflict harms teamwork",
+          "correct": false,
+          "feedback": "Rewarding non-contribution is unfair and encourages future free-riding."
+        },
+        {
+          "letter": "B",
+          "text": "Use a fair contribution discussion and agree on transparent credit/roles",
+          "correct": true,
+          "feedback": "Transparency and fairness protect both relationships and integrity."
+        },
+        {
+          "letter": "C",
+          "text": "Secretly remove their name without telling them",
+          "correct": false,
+          "feedback": "Secret punishment creates distrust and escalation."
+        },
+        {
+          "letter": "D",
+          "text": "Let the instructor guess who worked",
+          "correct": false,
+          "feedback": "Avoiding responsibility doesn't solve the fairness problem."
+        }
+      ],
+      "resources": [
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        },
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        },
+        {
+          "title": "Public Integrity overview (Transparency International Knowledge Hub)",
+          "url": "https://knowledgehub.transparency.org/guide/international-anti-corruption-commitments/8344"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Unofficial Speed-Up Fee",
+      "scenario": "A government office worker offers to speed up your document if you pay an extra fee unofficially. Your relatives say it's normal and faster.",
+      "question": "What demonstrates ethical, long-term thinking?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pay because the system is slow and you need results",
+          "correct": false,
+          "feedback": "Bribes worsen systems for everyone and create future expectations."
+        },
+        {
+          "letter": "B",
+          "text": "Refuse, document the request if safe, and use formal complaint or escalation channels",
+          "correct": true,
+          "feedback": "This protects integrity and supports systemic improvement."
+        },
+        {
+          "letter": "C",
+          "text": "Pay and then brag about how you managed the system",
+          "correct": false,
+          "feedback": "Normalizing corruption makes it harder to reduce."
+        },
+        {
+          "letter": "D",
+          "text": "Give up and never use government services again",
+          "correct": false,
+          "feedback": "Withdrawal harms your rights and reduces civic accountability pressure."
+        }
+      ],
+      "resources": [
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        },
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        },
+        {
+          "title": "Public Integrity overview (Transparency International Knowledge Hub)",
+          "url": "https://knowledgehub.transparency.org/guide/international-anti-corruption-commitments/8344"
+        }
+      ]
+    }
+  ]
+}

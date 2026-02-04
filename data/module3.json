@@ -1,0 +1,469 @@
+{
+  "id": 3,
+  "title": "Self-Reliance & Achievement Orientation",
+  "subtitle": "Building Your Future",
+  "description": "Develop a growth mindset and learn to take initiative in building your career and skills. This module helps you move beyond dependency on connections and fate, focusing on strategic thinking, continuous learning, and proactive self-development.",
+  "completionMessage": "You have learned to take ownership of your development and career path. You now understand how to balance tradition with innovation, invest in yourself strategically, and create opportunities through self-reliance rather than depending solely on connections or accepting fate.",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Post-Graduation Job Search",
+      "scenario": "After completing your bachelor's degree, you've been unemployed for eight months despite applying to many jobs. Your family suggests that your uncle, who has government connections, could arrange a position for you. However, you're also considering starting a small online business.",
+      "question": "Which approach best demonstrates self-reliance?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accept the family connection since unemployment is becoming longer",
+          "correct": false,
+          "feedback": "While solving immediate problems, this reinforces dependency on connections rather than building personal capabilities."
+        },
+        {
+          "letter": "B",
+          "text": "Pursue both entrepreneurship and skill development while continuing job applications",
+          "correct": true,
+          "feedback": "This shows proactive self-reliance by creating multiple pathways and building skills regardless of immediate outcomes."
+        },
+        {
+          "letter": "C",
+          "text": "Wait for the perfect job that matches your exact qualifications",
+          "correct": false,
+          "feedback": "Passive waiting demonstrates fatalistic thinking and misses opportunities for growth and learning."
+        },
+        {
+          "letter": "D",
+          "text": "Take the government job through connections and forget about business ideas",
+          "correct": false,
+          "feedback": "This completely abandons entrepreneurial potential and reinforces the connection-based system you could help change."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Exploring Entrepreneurial Success Factors in Nepal",
+          "url": "https://zenodo.org/records/13832318/files/1.%20Exploring%20Entrepreneurial%20Success%20Factors%20in%20Nepal.pdf"
+        },
+        {
+          "title": "Youth Employment Issues and their Impact on the Economic Development of Nepal",
+          "url": "https://www.nepjol.info/index.php/JODAS/article/view/72227"
+        },
+        {
+          "title": "Jobs and skills for youth (Nepal policy review, ILO)",
+          "url": "https://researchrepository.ilo.org/esploro/outputs/report/Jobs-and-skills-for-youth-review/995219375902676"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Struggling Family Business",
+      "scenario": "Your family business is struggling financially, and relatives suggest taking a large loan from informal lenders (with high interest) to continue operations. Alternatively, you could downsize significantly and rebuild gradually with your own resources.",
+      "question": "What demonstrates the most sustainable self-reliance?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Take the informal loan to maintain current business size",
+          "correct": false,
+          "feedback": "High-interest informal loans often lead to debt traps and don't address underlying business challenges."
+        },
+        {
+          "letter": "B",
+          "text": "Downsize and rebuild systematically with available resources",
+          "correct": true,
+          "feedback": "This shows sustainable thinking by working within means while maintaining business viability and learning."
+        },
+        {
+          "letter": "C",
+          "text": "Close the business completely since it's not working",
+          "correct": false,
+          "feedback": "Giving up entirely misses the opportunity to learn from challenges and build resilience."
+        },
+        {
+          "letter": "D",
+          "text": "Ask extended family members to invest in the business",
+          "correct": false,
+          "feedback": "While family investment might help, it creates dependency and obligation that might not be sustainable."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Microfinance and Self-reliance: Role of Microfinance on Entrepreneurship Capacity Building",
+          "url": "https://www.nepjol.info/index.php/jnmr/article/view/72094"
+        },
+        {
+          "title": "The Five Biggest Factors Challenging Start-ups in Nepal",
+          "url": "https://wijar.westcliff.edu/wp-content/uploads/2021/12/Sushant-word.pdf"
+        },
+        {
+          "title": "World Bank: Entrepreneurship Education and Training Programs",
+          "url": "https://openknowledge.worldbank.org/entities/publication/f01fbc81-a04c-57bc-8789-660c2c82c2d7"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Investing in Skills",
+      "scenario": "You want to learn digital marketing skills to improve your career prospects, but the good courses are expensive. Your friends suggest that formal courses are unnecessary and that you can learn everything for free online.",
+      "question": "What approach shows the most proactive self-development?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only use free online resources since paid courses are not worth the money",
+          "correct": false,
+          "feedback": "While free resources are valuable, dismissing all paid education might limit access to structured learning and networking."
+        },
+        {
+          "letter": "B",
+          "text": "Evaluate different learning options and invest strategically in your education",
+          "correct": true,
+          "feedback": "This demonstrates strategic thinking about personal development and willingness to invest in yourself."
+        },
+        {
+          "letter": "C",
+          "text": "Wait until you have enough money for the most expensive course available",
+          "correct": false,
+          "feedback": "Perfectionist thinking that delays action often results in missed opportunities."
+        },
+        {
+          "letter": "D",
+          "text": "Give up on digital marketing and focus on skills that don't require investment",
+          "correct": false,
+          "feedback": "Avoiding growth opportunities limits long-term potential and career options."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Jobs and skills for youth (Nepal policy review, ILO)",
+          "url": "https://researchrepository.ilo.org/esploro/outputs/report/Jobs-and-skills-for-youth-review/995219375902676"
+        },
+        {
+          "title": "Youth Employment Policy Brief: Nepal",
+          "url": "https://www.skillsforemployment.org/sites/default/files/2024-01/wcmstest4_179662.pdf"
+        },
+        {
+          "title": "World Bank: Entrepreneurship Education and Training Programs",
+          "url": "https://openknowledge.worldbank.org/entities/publication/f01fbc81-a04c-57bc-8789-660c2c82c2d7"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Traditional vs. Modern Farming",
+      "scenario": "Your agricultural family wants you to continue traditional farming methods that have been used for generations. However, you've researched modern techniques that could increase productivity and income, but they require initial investment and learning new approaches.",
+      "question": "How do you balance tradition with progress?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Follow traditional methods completely to respect family wisdom",
+          "correct": false,
+          "feedback": "Complete traditionalism might miss opportunities for improvement and economic growth."
+        },
+        {
+          "letter": "B",
+          "text": "Research and gradually implement proven modern techniques while maintaining valuable traditions",
+          "correct": true,
+          "feedback": "This shows balanced thinking that respects heritage while pursuing improvement and innovation."
+        },
+        {
+          "letter": "C",
+          "text": "Completely abandon traditional methods for modern approaches",
+          "correct": false,
+          "feedback": "Completely abandoning tradition might ignore valuable indigenous knowledge and create family conflict."
+        },
+        {
+          "letter": "D",
+          "text": "Move away from agriculture entirely to avoid the conflict",
+          "correct": false,
+          "feedback": "Avoiding the challenge doesn't solve the problem and wastes family agricultural knowledge."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Roads to change: The Karnali highway and occupational shift among Dalits in Nepal",
+          "url": "https://www.nepjol.info/index.php/nsj/article/view/81099"
+        },
+        {
+          "title": "FAO: Climate-Smart Agriculture",
+          "url": "https://www.fao.org/climate-smart-agriculture/en/"
+        },
+        {
+          "title": "World Bank: Climate-Smart Agriculture",
+          "url": "https://www.worldbank.org/en/topic/climate-smart-agriculture"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Migration vs. Local Development",
+      "scenario": "You've heard that many young Nepalese people are succeeding by migrating to other countries for work. Your friends encourage you to follow this path, but you're also interested in contributing to Nepal's development while building your career.",
+      "question": "What approach demonstrates constructive self-reliance?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Migrate immediately since that's where the opportunities are",
+          "correct": false,
+          "feedback": "While migration can provide opportunities, immediate departure might miss local potential and doesn't address systemic issues."
+        },
+        {
+          "letter": "B",
+          "text": "Develop skills that can contribute to both Nepal and global markets",
+          "correct": true,
+          "feedback": "This develops versatile capabilities that create options for both local contribution and global opportunities."
+        },
+        {
+          "letter": "C",
+          "text": "Stay in Nepal regardless of opportunities elsewhere",
+          "correct": false,
+          "feedback": "Rigid domestic focus might limit personal growth and ignore global learning opportunities."
+        },
+        {
+          "letter": "D",
+          "text": "Make the decision based on what most of your friends are doing",
+          "correct": false,
+          "feedback": "Following peer pressure rather than personal analysis leads to decisions that might not fit your situation."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Fatalistic Beliefs and Migration Behaviors: A Study of Ideational Demography in Nepal",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7731575/"
+        },
+        {
+          "title": "Nudging the Mindset of Youth Out Migration from Kathmandu, Nepal",
+          "url": "https://saim.edu.np/storage/uploads/book/2409142uR0IvR8SsgOWMgrdpdX7vrY0eCqxtynkpjlBK7c.pdf"
+        },
+        {
+          "title": "Jobs and skills for youth (Nepal policy review, ILO)",
+          "url": "https://researchrepository.ilo.org/esploro/outputs/report/Jobs-and-skills-for-youth-review/995219375902676"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Starting Freelancing",
+      "scenario": "You want to start freelancing online, but a friend says, 'Without expensive equipment and connections, it's pointless -- better wait until you have everything perfect.'",
+      "question": "What demonstrates achievement-oriented self-reliance?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wait until you can buy the best equipment and have strong connections",
+          "correct": false,
+          "feedback": "Perfectionism can delay action indefinitely and kill momentum."
+        },
+        {
+          "letter": "B",
+          "text": "Start with available resources, build a portfolio, and improve step-by-step",
+          "correct": true,
+          "feedback": "This is realistic and growth-oriented: iterate, learn, and scale."
+        },
+        {
+          "letter": "C",
+          "text": "Give up because the market is too competitive",
+          "correct": false,
+          "feedback": "Avoidance prevents skill-building and opportunity discovery."
+        },
+        {
+          "letter": "D",
+          "text": "Copy other freelancers' work to appear experienced quickly",
+          "correct": false,
+          "feedback": "Short-term gain through dishonesty creates long-term risk and reputation damage."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Jobs and skills for youth (Nepal policy review, ILO)",
+          "url": "https://researchrepository.ilo.org/esploro/outputs/report/Jobs-and-skills-for-youth-review/995219375902676"
+        },
+        {
+          "title": "Youth Employment Policy Brief: Nepal",
+          "url": "https://www.skillsforemployment.org/sites/default/files/2024-01/wcmstest4_179662.pdf"
+        },
+        {
+          "title": "World Bank: Entrepreneurship Education and Training Programs",
+          "url": "https://openknowledge.worldbank.org/entities/publication/f01fbc81-a04c-57bc-8789-660c2c82c2d7"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Failing an Important Exam",
+      "scenario": "You fail an important entrance exam. Relatives say, 'It wasn't in your destiny,' and suggest you stop trying and accept whatever comes.",
+      "question": "What response shows self-reliant achievement orientation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accept fate and stop preparing for future attempts",
+          "correct": false,
+          "feedback": "Fatalism discourages learning and personal control over outcomes."
+        },
+        {
+          "letter": "B",
+          "text": "Review what went wrong, adjust strategy, and build a structured improvement plan",
+          "correct": true,
+          "feedback": "This treats failure as feedback and builds competence through iteration."
+        },
+        {
+          "letter": "C",
+          "text": "Blame the system entirely and do nothing else",
+          "correct": false,
+          "feedback": "Systems can be flawed, but progress still needs actionable steps."
+        },
+        {
+          "letter": "D",
+          "text": "Decide you are not smart enough and avoid similar challenges",
+          "correct": false,
+          "feedback": "Fixed mindset blocks growth and reduces future opportunities."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Jobs and skills for youth (Nepal policy review, ILO)",
+          "url": "https://researchrepository.ilo.org/esploro/outputs/report/Jobs-and-skills-for-youth-review/995219375902676"
+        },
+        {
+          "title": "Youth Employment Policy Brief: Nepal",
+          "url": "https://www.skillsforemployment.org/sites/default/files/2024-01/wcmstest4_179662.pdf"
+        },
+        {
+          "title": "World Bank: Entrepreneurship Education and Training Programs",
+          "url": "https://openknowledge.worldbank.org/entities/publication/f01fbc81-a04c-57bc-8789-660c2c82c2d7"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Job Choice: Security vs. Growth",
+      "scenario": "You are offered a job through connections with very low learning opportunities. Another option is a smaller role with lower salary but strong skill development and mentorship.",
+      "question": "What best reflects long-term achievement orientation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Choose the connection-based job because it's safer",
+          "correct": false,
+          "feedback": "Short-term security can trap you in low-skill, low-mobility paths."
+        },
+        {
+          "letter": "B",
+          "text": "Prioritize the role that builds skills and long-term growth, even if it starts smaller",
+          "correct": true,
+          "feedback": "Skill accumulation increases future options and earning power."
+        },
+        {
+          "letter": "C",
+          "text": "Refuse both and wait for a 'perfect' job",
+          "correct": false,
+          "feedback": "Waiting without action can prolong stagnation."
+        },
+        {
+          "letter": "D",
+          "text": "Choose based only on what will impress others",
+          "correct": false,
+          "feedback": "External validation is unreliable and can lead to poor career fit."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Jobs and skills for youth (Nepal policy review, ILO)",
+          "url": "https://researchrepository.ilo.org/esploro/outputs/report/Jobs-and-skills-for-youth-review/995219375902676"
+        },
+        {
+          "title": "Youth Employment Policy Brief: Nepal",
+          "url": "https://www.skillsforemployment.org/sites/default/files/2024-01/wcmstest4_179662.pdf"
+        },
+        {
+          "title": "World Bank: Entrepreneurship Education and Training Programs",
+          "url": "https://openknowledge.worldbank.org/entities/publication/f01fbc81-a04c-57bc-8789-660c2c82c2d7"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Climate-Resilient Farming",
+      "scenario": "Your family farm is facing unpredictable rainfall. A neighbor suggests experimenting with more resilient practices, but elders say, 'We've always done it this way.'",
+      "question": "What is the most self-reliant and constructive approach?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Follow tradition only and reject new methods",
+          "correct": false,
+          "feedback": "Rigid traditionalism can increase vulnerability to new risks."
+        },
+        {
+          "letter": "B",
+          "text": "Learn and pilot proven climate-resilient practices on a small scale before expanding",
+          "correct": true,
+          "feedback": "This respects tradition while adapting to changing conditions through evidence-based experimentation."
+        },
+        {
+          "letter": "C",
+          "text": "Quit agriculture completely without exploring solutions",
+          "correct": false,
+          "feedback": "Abandonment avoids the problem rather than building adaptive capacity."
+        },
+        {
+          "letter": "D",
+          "text": "Borrow heavily to change everything at once without testing",
+          "correct": false,
+          "feedback": "High-risk, unproven large-scale changes can lead to financial disaster."
+        }
+      ],
+      "resources": [
+        {
+          "title": "FAO: Climate-Smart Agriculture",
+          "url": "https://www.fao.org/climate-smart-agriculture/en/"
+        },
+        {
+          "title": "World Bank: Climate-Smart Agriculture",
+          "url": "https://www.worldbank.org/en/topic/climate-smart-agriculture"
+        },
+        {
+          "title": "Climate Change and Agriculture in Nepal",
+          "url": "https://www.nepjol.info/index.php/nsj/article/view/81099"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Scholarship Application Rejection",
+      "scenario": "You apply for a study-abroad scholarship and get rejected. Friends say, 'Maybe you're not meant to study abroad,' and suggest you give up on that dream.",
+      "question": "What shows self-reliant achievement thinking?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Give up and assume it wasn't meant to be",
+          "correct": false,
+          "feedback": "Fatalism stops you from learning and improving for future attempts."
+        },
+        {
+          "letter": "B",
+          "text": "Seek feedback, strengthen weak areas, and apply to other programs or reapply next cycle",
+          "correct": true,
+          "feedback": "This treats rejection as information for improvement and persists with strategy."
+        },
+        {
+          "letter": "C",
+          "text": "Blame the selection committee for bias and stop trying",
+          "correct": false,
+          "feedback": "Blaming others without self-reflection prevents growth."
+        },
+        {
+          "letter": "D",
+          "text": "Use family connections to pressure the scholarship committee",
+          "correct": false,
+          "feedback": "This reinforces patronage rather than building genuine qualifications."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Jobs and skills for youth (Nepal policy review, ILO)",
+          "url": "https://researchrepository.ilo.org/esploro/outputs/report/Jobs-and-skills-for-youth-review/995219375902676"
+        },
+        {
+          "title": "Youth Employment Policy Brief: Nepal",
+          "url": "https://www.skillsforemployment.org/sites/default/files/2024-01/wcmstest4_179662.pdf"
+        },
+        {
+          "title": "World Bank: Entrepreneurship Education and Training Programs",
+          "url": "https://openknowledge.worldbank.org/entities/publication/f01fbc81-a04c-57bc-8789-660c2c82c2d7"
+        }
+      ]
+    }
+  ]
+}

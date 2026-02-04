@@ -1,0 +1,179 @@
+{
+  "id": 7,
+  "title": "Personal Development & Well-being",
+  "subtitle": "Holistic Growth",
+  "description": "Develop sustainable practices for mental health, balanced personal growth, and authentic self-development. This module helps you build resilience, manage setbacks constructively, and create a sustainable approach to success that honors both achievement and well-being.",
+  "completionMessage": "You have learned how to approach personal development in a balanced, sustainable way. You now understand how to handle setbacks with resilience, maintain mental health while pursuing goals, and make authentic decisions that align with your values rather than external pressures.",
+  "questions": [
+    {
+      "id": 1,
+      "title": "University Choice: Prestige vs. Passion",
+      "scenario": "You've been accepted to two universities—one is prestigious and will impress people in your social circle but offers a program you're not passionate about. The other is less well-known but offers exactly what you want to study and aligns with your career goals.",
+      "question": "What demonstrates authentic personal development?",
+      "options": [
+        {"letter": "A", "text": "Choose the prestigious university since reputation affects future opportunities", "correct": false, "feedback": "Choosing prestige over passion often leads to career dissatisfaction and doesn't develop authentic interests."},
+        {"letter": "B", "text": "Select based on which program genuinely interests you and supports your goals", "correct": true, "feedback": "This prioritizes genuine personal development and intrinsic motivation over external validation."},
+        {"letter": "C", "text": "Ask family and friends to decide for you since they have more experience", "correct": false, "feedback": "Having others make major life decisions prevents development of personal decision-making skills."},
+        {"letter": "D", "text": "Choose whichever option costs less money regardless of other factors", "correct": false, "feedback": "While cost matters, making decisions solely on price ignores personal growth and career alignment."}
+      ],
+      "resources": [
+        {"title": "Jobs and skills for youth (Nepal policy review, ILO)", "url": "https://researchrepository.ilo.org/esploro/outputs/report/Jobs-and-skills-for-youth-review/995219375902676"},
+        {"title": "Youth Employment Policy Brief: Nepal", "url": "https://www.skillsforemployment.org/sites/default/files/2024-01/wcmstest4_179662.pdf"},
+        {"title": "Mental health at work (WHO)", "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"}
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Social Media Comparison Trap",
+      "scenario": "Social media constantly shows your peers achieving success, traveling, and living seemingly perfect lives. You find yourself feeling inadequate about your own progress and constantly comparing your life to what others post online.",
+      "question": "How do you maintain healthy self-esteem?",
+      "options": [
+        {"letter": "A", "text": "Increase your social media posting to show that your life is also successful", "correct": false, "feedback": "Creating false images for social media doesn't address underlying self-esteem issues and creates more pressure."},
+        {"letter": "B", "text": "Focus on your personal growth journey and limit comparison with curated online content", "correct": true, "feedback": "This develops authentic self-worth based on personal progress rather than external comparison."},
+        {"letter": "C", "text": "Delete all social media accounts to avoid the comparison pressure", "correct": false, "feedback": "While limiting exposure can help, complete avoidance doesn't develop skills for handling social pressure."},
+        {"letter": "D", "text": "Try to achieve exactly what others are posting to catch up with them", "correct": false, "feedback": "Trying to replicate others' achievements ignores your unique circumstances and goals."}
+      ],
+      "resources": [
+        {"title": "Characteristics Associated with Low Self-esteem among U.S. Adolescents", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2914631/"},
+        {"title": "Mental health at work (WHO)", "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"},
+        {"title": "WHO Guidelines on mental health at work", "url": "https://www.who.int/publications/i/item/9789240053052"}
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Work-Life Balance Crisis",
+      "scenario": "You've been working extremely long hours to achieve your career goals, but you're experiencing physical exhaustion, relationship strain, and mental stress. Friends suggest that success requires this level of sacrifice.",
+      "question": "What demonstrates balanced personal development?",
+      "options": [
+        {"letter": "A", "text": "Continue the intense work schedule since success requires sacrifice", "correct": false, "feedback": "Unsustainable work patterns often lead to burnout and can ultimately harm both health and career success."},
+        {"letter": "B", "text": "Establish sustainable work-life integration that supports long-term success", "correct": true, "feedback": "This recognizes that sustainable success requires balancing multiple life dimensions."},
+        {"letter": "C", "text": "Reduce work efforts significantly to prioritize only personal relationships", "correct": false, "feedback": "Completely reducing work focus might harm career development and doesn't address sustainable balance."},
+        {"letter": "D", "text": "Take a complete break from work to recover from burnout", "correct": false, "feedback": "While recovery might be necessary, complete breaks don't develop long-term balance strategies."}
+      ],
+      "resources": [
+        {"title": "Mental health at work (WHO)", "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"},
+        {"title": "WHO Guidelines on mental health at work", "url": "https://www.who.int/publications/i/item/9789240053052"},
+        {"title": "The Optimism Paradox in Entrepreneurship", "url": "https://ijsrem.com/download/the-optimism-paradox-in-entrepreneurship-when-a-positive-mindset-hinders-learning-from-failure-and-impedes-innovation"}
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Receiving Constructive Criticism",
+      "scenario": "You receive constructive criticism about your work from a supervisor or teacher. Your first reaction is to feel defensive and personally attacked.",
+      "question": "How can you develop a healthier response to feedback?",
+      "options": [
+        {"letter": "A", "text": "Defend yourself immediately and explain why the criticism is wrong", "correct": false, "feedback": "Defensive reactions prevent learning and can damage professional relationships."},
+        {"letter": "B", "text": "Listen objectively, separate feedback about work from personal worth, and identify actionable improvements", "correct": true, "feedback": "This separates professional feedback from self-worth and enables growth."},
+        {"letter": "C", "text": "Accept all criticism without question and feel bad about yourself", "correct": false, "feedback": "Accepting criticism without evaluation can be as harmful as rejecting it entirely."},
+        {"letter": "D", "text": "Avoid situations where you might receive criticism in the future", "correct": false, "feedback": "Avoidance prevents growth opportunities and limits career development."}
+      ],
+      "resources": [
+        {"title": "Mental health at work (WHO)", "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"},
+        {"title": "WHO Guidelines on mental health at work", "url": "https://www.who.int/publications/i/item/9789240053052"},
+        {"title": "Jobs and skills for youth (Nepal policy review, ILO)", "url": "https://researchrepository.ilo.org/esploro/outputs/report/Jobs-and-skills-for-youth-review/995219375902676"}
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Self-Critical Thinking Pattern",
+      "scenario": "You tend to be very self-critical and focus intensely on your failures and shortcomings. When you achieve something positive, you attribute it to luck rather than your efforts, but when things go wrong, you blame yourself completely.",
+      "question": "How can you develop healthier self-evaluation?",
+      "options": [
+        {"letter": "A", "text": "Continue being self-critical since it motivates improvement", "correct": false, "feedback": "Excessive self-criticism often leads to anxiety and undermines confidence needed for growth."},
+        {"letter": "B", "text": "Practice balanced self-assessment that recognizes both strengths and areas for growth", "correct": true, "feedback": "Balanced self-assessment supports realistic goal-setting and sustainable personal development."},
+        {"letter": "C", "text": "Stop being critical entirely and always think positively about yourself", "correct": false, "feedback": "Unrealistic positive thinking ignores areas that genuinely need improvement and prevents growth."},
+        {"letter": "D", "text": "Ask others to evaluate you since your self-perception is unreliable", "correct": false, "feedback": "While external feedback is valuable, developing accurate self-assessment skills is important for independence."}
+      ],
+      "resources": [
+        {"title": "The links among relative financial scarcity, thinking style, fatalism, and well-being", "url": "https://onlinelibrary.wiley.com/doi/10.1002/pchj.566"},
+        {"title": "Mental health at work (WHO)", "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"},
+        {"title": "WHO Guidelines on mental health at work", "url": "https://www.who.int/publications/i/item/9789240053052"}
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Authentic vs. Approval-Based Decisions",
+      "scenario": "You notice that you often make important life decisions based on what will gain approval from family and friends rather than what aligns with your genuine interests and values. You want to be more authentic but worry about disappointing people you care about.",
+      "question": "How do you develop authentic decision-making?",
+      "options": [
+        {"letter": "A", "text": "Always choose what others want to maintain important relationships", "correct": false, "feedback": "Always pleasing others prevents development of personal identity and can lead to resentment."},
+        {"letter": "B", "text": "Gradually make decisions that align with your values while communicating openly with loved ones", "correct": true, "feedback": "This develops authenticity while maintaining healthy relationships through honest communication."},
+        {"letter": "C", "text": "Make all decisions independently without considering others' perspectives", "correct": false, "feedback": "Complete independence ignores valuable input from people who care about you."},
+        {"letter": "D", "text": "Wait until everyone agrees before making any major life choices", "correct": false, "feedback": "Waiting for universal agreement often means never making important decisions."}
+      ],
+      "resources": [
+        {"title": "Mental health at work (WHO)", "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"},
+        {"title": "WHO Guidelines on mental health at work", "url": "https://www.who.int/publications/i/item/9789240053052"},
+        {"title": "Peer Influences on Adolescent Decision Making (PMC)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4276317/"}
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Learning from Major Setbacks",
+      "scenario": "You've faced a major setback in your academic or career path. People around you say, 'Maybe this just wasn't meant to be,' suggesting you should give up and try something else.",
+      "question": "What demonstrates growth-oriented personal development?",
+      "options": [
+        {"letter": "A", "text": "Accept that the path wasn't meant for you and give up", "correct": false, "feedback": "Fatalistic thinking prevents learning from failure and developing resilience."},
+        {"letter": "B", "text": "Analyze what went wrong, learn from the experience, and develop a new strategy", "correct": true, "feedback": "This demonstrates a growth mindset by treating setbacks as learning opportunities."},
+        {"letter": "C", "text": "Blame external factors entirely and try the exact same approach again", "correct": false, "feedback": "While external factors exist, not adapting strategy ignores valuable feedback."},
+        {"letter": "D", "text": "Wait for circumstances to magically improve before trying again", "correct": false, "feedback": "Passive waiting doesn't develop problem-solving skills or create change."}
+      ],
+      "resources": [
+        {"title": "The links among relative financial scarcity, thinking style, fatalism, and well-being", "url": "https://onlinelibrary.wiley.com/doi/10.1002/pchj.566"},
+        {"title": "Mental health at work (WHO)", "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"},
+        {"title": "Jobs and skills for youth (Nepal policy review, ILO)", "url": "https://researchrepository.ilo.org/esploro/outputs/report/Jobs-and-skills-for-youth-review/995219375902676"}
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Mental Health Stigma",
+      "scenario": "You're experiencing symptoms of anxiety or depression that are affecting your daily functioning. Family members suggest you just need to 'be stronger' or 'think more positively.'",
+      "question": "What approach promotes genuine well-being?",
+      "options": [
+        {"letter": "A", "text": "Follow family advice and try to be stronger without seeking help", "correct": false, "feedback": "Willpower alone is often insufficient for mental health challenges and can delay necessary treatment."},
+        {"letter": "B", "text": "Recognize mental health as important as physical health and seek appropriate support", "correct": true, "feedback": "This recognizes mental health needs professional support just like physical health conditions."},
+        {"letter": "C", "text": "Ignore the symptoms and focus only on work to distract yourself", "correct": false, "feedback": "Avoidance through work can worsen symptoms and lead to burnout."},
+        {"letter": "D", "text": "Keep the struggles private to avoid burdening others", "correct": false, "feedback": "Isolation prevents access to support systems that can facilitate recovery."}
+      ],
+      "resources": [
+        {"title": "Mental health at work (WHO)", "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"},
+        {"title": "WHO Guidelines on mental health at work", "url": "https://www.who.int/publications/i/item/9789240053052"},
+        {"title": "Characteristics Associated with Low Self-esteem among U.S. Adolescents", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2914631/"}
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Balancing Multiple Life Goals",
+      "scenario": "You have multiple life goals (education, career, relationships, personal interests) but feel overwhelmed trying to pursue everything simultaneously. You're considering abandoning some goals entirely.",
+      "question": "What demonstrates balanced personal development?",
+      "options": [
+        {"letter": "A", "text": "Focus exclusively on one goal and abandon all others", "correct": false, "feedback": "Single-minded focus can create imbalance and missed opportunities for fulfillment."},
+        {"letter": "B", "text": "Prioritize goals based on current life stage while maintaining connection to other aspirations", "correct": true, "feedback": "This recognizes that different life stages support different priorities while maintaining long-term vision."},
+        {"letter": "C", "text": "Try to pursue all goals equally and intensely at the same time", "correct": false, "feedback": "Attempting everything equally often leads to burnout and insufficient progress in any area."},
+        {"letter": "D", "text": "Wait until life circumstances are perfect before pursuing any goals", "correct": false, "feedback": "Perfect conditions rarely exist; waiting prevents all progress."}
+      ],
+      "resources": [
+        {"title": "Mental health at work (WHO)", "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"},
+        {"title": "WHO Guidelines on mental health at work", "url": "https://www.who.int/publications/i/item/9789240053052"},
+        {"title": "The Optimism Paradox in Entrepreneurship", "url": "https://ijsrem.com/download/the-optimism-paradox-in-entrepreneurship-when-a-positive-mindset-hinders-learning-from-failure-and-impedes-innovation"}
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Unhealthy Habits and Circumstances",
+      "scenario": "You notice that your habits (sleep, diet, exercise, screen time) are negatively affecting your performance and well-being. You want to change but feel it's too difficult given your current circumstances.",
+      "question": "What approach demonstrates self-care and personal responsibility?",
+      "options": [
+        {"letter": "A", "text": "Accept that circumstances prevent any positive changes", "correct": false, "feedback": "While circumstances matter, this removes personal agency and prevents any improvement."},
+        {"letter": "B", "text": "Start with small, manageable changes while gradually building better habits", "correct": true, "feedback": "Incremental change is sustainable and builds confidence while respecting current limitations."},
+        {"letter": "C", "text": "Attempt a complete lifestyle overhaul all at once", "correct": false, "feedback": "Radical changes are difficult to maintain and often lead to reverting to old habits."},
+        {"letter": "D", "text": "Wait until your circumstances completely change before addressing habits", "correct": false, "feedback": "Circumstances rarely change on their own; waiting prevents taking available actions."}
+      ],
+      "resources": [
+        {"title": "Mental health at work (WHO)", "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"},
+        {"title": "WHO Guidelines on mental health at work", "url": "https://www.who.int/publications/i/item/9789240053052"},
+        {"title": "Jobs and skills for youth (Nepal policy review, ILO)", "url": "https://researchrepository.ilo.org/esploro/outputs/report/Jobs-and-skills-for-youth-review/995219375902676"}
+      ]
+    }
+  ]
+}

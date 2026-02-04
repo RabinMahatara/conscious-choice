@@ -1,0 +1,60 @@
+{
+  "siteName": "Conscious Choice",
+  "siteTitle": "Breaking the Cycle Through Conscious Choice",
+  "hero": {
+    "title": "Breaking the Cycle Through Conscious Choice",
+    "tagline": "Practice better choices in real situations.",
+    "description": [
+      "This is a practice space for Nepali students and youth.",
+      "You will face situations where pressure, habit, and connections make the wrong choice feel normal.",
+      "Here, you can slow down, choose a response, and learn from immediate feedback."
+    ],
+    "ctaText": "Explore Modules",
+    "ctaLink": "#modules"
+  },
+  "philosophy": {
+    "title": "Why this website exists",
+    "cards": [
+      {
+        "title": "Personal practice",
+        "text": "You do not need a lecture to know what is wrong. You need practice for the moment when it becomes inconvenient to do what is right."
+      },
+      {
+        "title": "Built for Nepal",
+        "text": "These scenarios reflect real Nepali contexts. Family expectations, social pressure, informal networks, and everyday trade-offs are all part of the choices."
+      },
+      {
+        "title": "Build agency",
+        "text": "Change starts small and becomes normal through repetition. This site helps you build the habit of choosing deliberately, even when it is uncomfortable."
+      }
+    ]
+  },
+  "modules": {
+    "title": "Seven Interconnected Modules",
+    "intro": "Each module trains one civic skill, then tests it in realistic situations. You can start anywhere, but doing them in order helps the skills stack up."
+  },
+  "about": {
+    "title": "About This Project",
+    "paragraphs": [
+      "This website is my Signature Work project at Duke Kunshan University. It is built for Nepali students and youth who are tired of being told to do better without being shown how to practice it.",
+      "The idea is simple. Many national problems survive because they are repeated in everyday decisions. This site helps you rehearse a better response so it becomes easier to choose it in real life."
+    ],
+    "meta": [
+      {
+        "label": "Content",
+        "value": "35 scenario-based questions across 7 modules"
+      },
+      {
+        "label": "Format",
+        "value": "Interactive single-question interfaces with immediate feedback"
+      },
+      {
+        "label": "Resources",
+        "value": "Curated links to credible articles, research, and videos"
+      }
+    ]
+  },
+  "footer": {
+    "text": "© 2026 Breaking the Cycle Through Conscious Choice | Duke Kunshan University Signature Work"
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "id": 4,
+  "title": "Social Conformity & Individual Agency",
+  "subtitle": "Finding Your Voice",
+  "description": "Learn to balance social belonging with personal authenticity. This module helps you develop the confidence to maintain your values while navigating peer pressure, family expectations, and social norms without alienating important relationships.",
+  "completionMessage": "You have learned how to exercise healthy individual agency while maintaining important relationships. You now understand how to resist harmful social pressure, make authentic decisions, and express your values respectfully even when they differ from those around you.",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Discriminatory Family Comments",
+      "scenario": "During a family gathering, relatives are making discriminatory comments about people from different ethnic groups. Everyone seems to agree, and speaking up might create tension and make you appear disrespectful to elders.",
+      "question": "What demonstrates healthy individual agency?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stay silent to maintain family harmony and show respect to elders",
+          "correct": false,
+          "feedback": "Silent agreement enables harmful attitudes and doesn't contribute to positive social change."
+        },
+        {
+          "letter": "B",
+          "text": "Respectfully express your different perspective with supporting reasons",
+          "correct": true,
+          "feedback": "This shows courage to maintain your values while respecting relationships and potentially educating others."
+        },
+        {
+          "letter": "C",
+          "text": "Loudly argue against everyone to make your point clear",
+          "correct": false,
+          "feedback": "Aggressive confrontation is likely to create defensiveness and shut down productive dialogue."
+        },
+        {
+          "letter": "D",
+          "text": "Leave the gathering to avoid participating in the conversation",
+          "correct": false,
+          "feedback": "While avoiding participation, this doesn't challenge harmful attitudes or contribute to family understanding."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Multiculturalism in Nepal: An approach towards social cohesion and peaceful society",
+          "url": "https://socialchange.org.np/peace-and-social-cohesion-blog-series/multiculturalism-in-nepal-an-approach-towards-social-cohesion-and-peaceful-society/"
+        },
+        {
+          "title": "Peer Influences on Adolescent Decision Making (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4276317/"
+        },
+        {
+          "title": "How Can Peer Group Influence the Behavior of Adolescents (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4777050/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Group Cheating Pressure",
+      "scenario": "Your college friend group is planning to cheat on an important exam by using hidden notes. They pressure you to participate, saying that everyone does it and that you're being too honest for your own good.",
+      "question": "How do you maintain individual integrity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Participate in cheating to maintain friendships and group acceptance",
+          "correct": false,
+          "feedback": "Compromising integrity for social acceptance sets a pattern of values subordination that affects long-term character."
+        },
+        {
+          "letter": "B",
+          "text": "Refuse to cheat while not judging or reporting friends",
+          "correct": true,
+          "feedback": "This maintains personal integrity while respecting others' autonomy and preserving relationships."
+        },
+        {
+          "letter": "C",
+          "text": "Report the cheating plan to authorities immediately",
+          "correct": false,
+          "feedback": "While upholding institutional rules, immediate reporting might damage trust without trying other approaches first."
+        },
+        {
+          "letter": "D",
+          "text": "Skip the exam entirely to avoid the moral dilemma",
+          "correct": false,
+          "feedback": "Avoiding the situation entirely doesn't develop skills for handling future moral dilemmas."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Peer Pressure Of Adolescents In Relation To Psychological Well Being",
+          "url": "https://journalppw.com/index.php/jpsp/article/download/13221/8590/15983"
+        },
+        {
+          "title": "Peer Influences on Adolescent Decision Making (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4276317/"
+        },
+        {
+          "title": "How Can Peer Group Influence the Behavior of Adolescents (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4777050/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Uninformed Protest",
+      "scenario": "Your community group is organizing a protest against a local development project. While you support environmental protection, you've researched the project and found it includes important infrastructure improvements. Most group members haven't read the project details.",
+      "question": "What demonstrates thoughtful individual agency?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Join the protest since environmental protection is always important",
+          "correct": false,
+          "feedback": "Joining without full understanding shows conformity even to causes you generally support."
+        },
+        {
+          "letter": "B",
+          "text": "Share your research and encourage informed discussion before deciding",
+          "correct": true,
+          "feedback": "This contributes valuable information to group decision-making and promotes informed activism."
+        },
+        {
+          "letter": "C",
+          "text": "Oppose the group entirely since they haven't done proper research",
+          "correct": false,
+          "feedback": "Opposing the entire group rather than improving their information creates conflict without construction."
+        },
+        {
+          "letter": "D",
+          "text": "Stay neutral and avoid taking any position on the issue",
+          "correct": false,
+          "feedback": "Neutrality avoids conflict but doesn't contribute your knowledge to important community decisions."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Critical Pedagogy in Mathematics Education: A Systematic Review",
+          "url": "https://www.nepjol.info/index.php/ejer/article/view/83052"
+        },
+        {
+          "title": "Exploring Critical Thinking For Secondary Level Students In Chemistry",
+          "url": "https://www.nepjol.info/index.php/JACEM/article/view/18812"
+        },
+        {
+          "title": "Peer Influences on Adolescent Decision Making (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4276317/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Social Media Lifestyle Pressure",
+      "scenario": "Social media influencers are promoting expensive lifestyle products as essential for success. Many of your friends are buying these products and posting about them, creating pressure for you to do the same to fit in with the group.",
+      "question": "How do you respond to this social pressure?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buy the products to maintain social image and group acceptance",
+          "correct": false,
+          "feedback": "Making financial decisions based on social pressure rather than actual value can harm your economic well-being."
+        },
+        {
+          "letter": "B",
+          "text": "Make purchasing decisions based on your actual needs and values",
+          "correct": true,
+          "feedback": "This demonstrates authentic decision-making that prioritizes substance over image."
+        },
+        {
+          "letter": "C",
+          "text": "Criticize friends publicly for falling into marketing traps",
+          "correct": false,
+          "feedback": "Public criticism might damage relationships and doesn't address the underlying social pressure dynamics."
+        },
+        {
+          "letter": "D",
+          "text": "Delete social media entirely to avoid the pressure",
+          "correct": false,
+          "feedback": "Complete avoidance doesn't develop skills for navigating social pressure in other contexts."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Peer pressure: Know when to say no",
+          "url": "https://www.myrepublica.nagariknetwork.com/news/50662/"
+        },
+        {
+          "title": "Peer Influences on Adolescent Decision Making (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4276317/"
+        },
+        {
+          "title": "How Can Peer Group Influence the Behavior of Adolescents (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4777050/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Unpaid Overtime Culture",
+      "scenario": "Your professional colleagues consistently work unpaid overtime and expect others to do the same to show dedication. You believe in work-life balance but worry that leaving on time might hurt your career advancement.",
+      "question": "What demonstrates healthy individual agency?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Work unpaid overtime to show dedication like everyone else",
+          "correct": false,
+          "feedback": "Conforming to unhealthy work culture perpetuates the problem and sacrifices personal well-being."
+        },
+        {
+          "letter": "B",
+          "text": "Maintain boundaries while ensuring high-quality work during official hours",
+          "correct": true,
+          "feedback": "This demonstrates that quality work and personal boundaries can coexist, potentially modeling better practices."
+        },
+        {
+          "letter": "C",
+          "text": "Confront colleagues about the unhealthy work culture immediately",
+          "correct": false,
+          "feedback": "Direct confrontation might be counterproductive without establishing your own work quality first."
+        },
+        {
+          "letter": "D",
+          "text": "Look for a different job rather than address the culture issue",
+          "correct": false,
+          "feedback": "While changing jobs is sometimes necessary, immediate departure doesn't address the systemic culture issue."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Mental health at work (WHO)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"
+        },
+        {
+          "title": "WHO Guidelines on mental health at work",
+          "url": "https://www.who.int/publications/i/item/9789240053052"
+        },
+        {
+          "title": "Peer Influences on Adolescent Decision Making (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4276317/"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Online Pile-On Pressure",
+      "scenario": "Your friends start participating in online pile-ons where they publicly insult someone accused of wrongdoing, before any facts are confirmed. They pressure you to repost insults to show loyalty.",
+      "question": "What demonstrates healthy individual agency?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Join the pile-on so you don't look disloyal",
+          "correct": false,
+          "feedback": "Conformity can turn you into part of harm that you may later regret."
+        },
+        {
+          "letter": "B",
+          "text": "Pause, verify facts, and refuse to harass---while encouraging fair, non-abusive accountability",
+          "correct": true,
+          "feedback": "This shows integrity, emotional regulation, and evidence-based action."
+        },
+        {
+          "letter": "C",
+          "text": "Add harsher insults to gain more attention and approval",
+          "correct": false,
+          "feedback": "Escalation increases harm and normalizes cruelty as justice."
+        },
+        {
+          "letter": "D",
+          "text": "Stay silent but privately enjoy the drama",
+          "correct": false,
+          "feedback": "Passive complicity still sustains harmful group behavior."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Peer Influences on Adolescent Decision Making (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4276317/"
+        },
+        {
+          "title": "How Can Peer Group Influence the Behavior of Adolescents (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4777050/"
+        },
+        {
+          "title": "Mental health at work (WHO)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Workplace Overtime Expectations",
+      "scenario": "At work, everyone stays late unpaid because the manager praises sacrifice. You are judged for leaving on time, even though you complete your tasks well.",
+      "question": "What is the most agentic response?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stay late every day to match the group, even if it harms your health",
+          "correct": false,
+          "feedback": "Conformity to unhealthy norms can lead to burnout and reinforces exploitation."
+        },
+        {
+          "letter": "B",
+          "text": "Maintain boundaries, communicate expectations professionally, and keep performance high",
+          "correct": true,
+          "feedback": "Agency includes boundary-setting and consistent professionalism."
+        },
+        {
+          "letter": "C",
+          "text": "Publicly shame coworkers for being slaves to the system",
+          "correct": false,
+          "feedback": "Shaming creates conflict and reduces chances of cultural change."
+        },
+        {
+          "letter": "D",
+          "text": "Quit immediately without attempting any constructive approach",
+          "correct": false,
+          "feedback": "Sometimes quitting is necessary, but immediate exit skips problem-solving skills."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Mental health at work (WHO)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"
+        },
+        {
+          "title": "WHO Guidelines on mental health at work",
+          "url": "https://www.who.int/publications/i/item/9789240053052"
+        },
+        {
+          "title": "Peer Influences on Adolescent Decision Making (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4276317/"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Political Youth Wing Pressure",
+      "scenario": "A student club pressures you to support a political youth wing publicly. They say refusal means you are against progress, and they may exclude you from opportunities.",
+      "question": "What best reflects thoughtful agency?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Publicly support them to protect your opportunities",
+          "correct": false,
+          "feedback": "Trading principles for belonging builds long-term dependency and regret."
+        },
+        {
+          "letter": "B",
+          "text": "Ask questions, evaluate the group's actions and values, and decide based on evidence and your principles",
+          "correct": true,
+          "feedback": "Agency means informed choice, not automatic alignment or rejection."
+        },
+        {
+          "letter": "C",
+          "text": "Oppose them aggressively without understanding their goals",
+          "correct": false,
+          "feedback": "Uninformed opposition is still reactive conformity---just in the other direction."
+        },
+        {
+          "letter": "D",
+          "text": "Avoid all civic involvement because groups are always manipulative",
+          "correct": false,
+          "feedback": "Withdrawal removes your voice from issues that affect your community."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Peer Influences on Adolescent Decision Making (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4276317/"
+        },
+        {
+          "title": "How Can Peer Group Influence the Behavior of Adolescents (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4777050/"
+        },
+        {
+          "title": "Teaching Lateral Reading (Civic Online Reasoning)",
+          "url": "https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Family Career Pressure",
+      "scenario": "Your relatives insist you must choose a socially respected career (government job) even though you are more motivated by a different path. They say, 'What will people say?'",
+      "question": "What demonstrates healthy agency with respect?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Choose the respected option solely to avoid criticism",
+          "correct": false,
+          "feedback": "Living for approval can lead to dissatisfaction and weak self-direction."
+        },
+        {
+          "letter": "B",
+          "text": "Explain your goals calmly, show your plan, and take responsibility for your decision",
+          "correct": true,
+          "feedback": "This blends autonomy with communication and accountability."
+        },
+        {
+          "letter": "C",
+          "text": "Insult your relatives as backward and cut them off",
+          "correct": false,
+          "feedback": "Cutting ties may create unnecessary harm and reduces dialogue."
+        },
+        {
+          "letter": "D",
+          "text": "Avoid deciding until everyone approves",
+          "correct": false,
+          "feedback": "Waiting for approval often means never acting."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Mental health at work (WHO)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"
+        },
+        {
+          "title": "WHO Guidelines on mental health at work",
+          "url": "https://www.who.int/publications/i/item/9789240053052"
+        },
+        {
+          "title": "Peer Influences on Adolescent Decision Making (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4276317/"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Gossip Culture in Friend Group",
+      "scenario": "In your friend group, gossip is treated as entertainment. If you refuse to participate, they call you boring and exclude you.",
+      "question": "What is the most agentic response?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gossip to fit in and protect friendships",
+          "correct": false,
+          "feedback": "Fitting in through harm compromises integrity and trust."
+        },
+        {
+          "letter": "B",
+          "text": "Set a boundary, redirect conversation, and build friendships around healthier norms",
+          "correct": true,
+          "feedback": "Agency includes shaping your environment and choosing healthier social patterns."
+        },
+        {
+          "letter": "C",
+          "text": "Gossip privately while acting moral in public",
+          "correct": false,
+          "feedback": "Double standards increase anxiety and reduce authentic relationships."
+        },
+        {
+          "letter": "D",
+          "text": "Isolate yourself from everyone permanently",
+          "correct": false,
+          "feedback": "Total isolation is rarely necessary and can harm well-being."
+        }
+      ],
+      "resources": [
+        {
+          "title": "How Can Peer Group Influence the Behavior of Adolescents (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4777050/"
+        },
+        {
+          "title": "Peer Influences on Adolescent Decision Making (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4276317/"
+        },
+        {
+          "title": "Mental health at work (WHO)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"
+        }
+      ]
+    }
+  ]
+}

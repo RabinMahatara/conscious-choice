@@ -1,0 +1,469 @@
+{
+  "id": 1,
+  "title": "Critical Thinking & Decision Making",
+  "subtitle": "The Foundation",
+  "description": "Learn to evaluate information, resist manipulation, and think independently. This module helps you develop the ability to analyze claims, identify biases, and make evidence-based decisions in the face of social pressure and misinformation.",
+  "completionMessage": "You have learned how to evaluate information, resist manipulation, and think independently. These critical thinking skills form the cognitive foundation for all the other modules. You can now analyze claims, identify biases, and make evidence-based decisions even in the face of social pressure and misinformation.",
+  "questions": [
+    {
+      "id": 1,
+      "title": "The Viral Health Claim",
+      "scenario": "Your college classmate shares a viral social media post claiming that eating local honey from your village can prevent COVID-19. The post includes testimonials from villagers and has been shared thousands of times. Your family members are excited to buy expensive local honey based on this claim.",
+      "question": "What is your best approach?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ignore the claim since social media posts are always fake",
+          "correct": false,
+          "feedback": "While skepticism is healthy, dismissing all social media without evaluation is also not critical thinking. Some social media can contain accurate information from credible sources."
+        },
+        {
+          "letter": "B",
+          "text": "Support buying the honey since many villagers have shared positive testimonials",
+          "correct": false,
+          "feedback": "Personal testimonials, no matter how numerous, are not scientific evidence. This represents anecdotal evidence which can be misleading and doesn't establish causation."
+        },
+        {
+          "letter": "C",
+          "text": "Research scientific evidence about honey and COVID-19 before making any decision",
+          "correct": true,
+          "feedback": "This demonstrates critical thinking by seeking evidence-based information before making health-related decisions. Scientific research and credible health authorities should guide health choices."
+        },
+        {
+          "letter": "D",
+          "text": "Buy the honey anyway since it's from your village and won't cause harm",
+          "correct": false,
+          "feedback": "Even 'harmless' remedies can be problematic if they create false security or delay proper medical care. Cost and opportunity considerations also matter."
+        }
+      ],
+      "resources": [
+        {
+          "title": "WHO - Advice for the public: Coronavirus disease (COVID-19)",
+          "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
+        },
+        {
+          "title": "Foundation for Critical Thinking",
+          "url": "https://www.criticalthinking.org"
+        },
+        {
+          "title": "Teaching Critical Thinking Resources (TeachThought)",
+          "url": "https://www.teachthought.com/critical-thinking-posts/resources-teaching-critical/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Climate Change Debate",
+      "scenario": "During a class debate about climate change, your professor presents data showing rising temperatures in Nepal. Another student argues that since it was cold last winter in Kathmandu, global warming must be false. Most students seem to agree with this counterargument.",
+      "question": "How should you respond?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stay quiet to avoid conflict with your classmates",
+          "correct": false,
+          "feedback": "While avoiding conflict may seem safer, staying silent when you understand the evidence fails to contribute to meaningful academic discourse."
+        },
+        {
+          "letter": "B",
+          "text": "Argue that professors are always right and students should accept their data",
+          "correct": false,
+          "feedback": "Appeal to authority without understanding the reasoning is not critical thinking, even when the authority is correct."
+        },
+        {
+          "letter": "C",
+          "text": "Distinguish between weather patterns and long-term climate trends using evidence",
+          "correct": true,
+          "feedback": "This demonstrates understanding of the difference between weather and climate, and reliance on systematic data rather than isolated examples."
+        },
+        {
+          "letter": "D",
+          "text": "Agree with the majority since they seem convinced by the winter example",
+          "correct": false,
+          "feedback": "This shows susceptibility to groupthink and confuses anecdotal local weather with global climate patterns. Majority opinion doesn't determine scientific accuracy."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Fostering Critical Thinking Practices at Primary Science Classrooms in Nepal (ERIC)",
+          "url": "https://files.eric.ed.gov/fulltext/EJ1149478.pdf"
+        },
+        {
+          "title": "Critical Thinking Resources (Reboot Foundation)",
+          "url": "https://reboot-foundation.org/resources/"
+        },
+        {
+          "title": "UC Berkeley: Fake News - Bringing Media Literacy to the Classroom",
+          "url": "https://teaching.berkeley.edu/fake-news-bringing-media-literacy-classroom"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Political Corruption Article",
+      "scenario": "You read a news article claiming that a specific political party is entirely responsible for Nepal's corruption problems. The article cites several recent corruption cases involving politicians from that party, but doesn't mention any cases involving other parties.",
+      "question": "What is your most critical response?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Look for additional sources that provide broader context about corruption across parties",
+          "correct": true,
+          "feedback": "This seeks comprehensive information and recognizes that selective reporting can create misleading impressions about complex issues."
+        },
+        {
+          "letter": "B",
+          "text": "Share the article immediately since it provides specific examples of corruption",
+          "correct": false,
+          "feedback": "Sharing without verification spreads potentially misleading information. Cherry-picked examples don't represent the full picture."
+        },
+        {
+          "letter": "C",
+          "text": "Dismiss the article since all political news is biased",
+          "correct": false,
+          "feedback": "Complete dismissal prevents you from gathering any useful information. Some political reporting is credible and important."
+        },
+        {
+          "letter": "D",
+          "text": "Believe the article since it provides concrete examples and evidence",
+          "correct": false,
+          "feedback": "Having examples doesn't make an argument complete or unbiased. Selective evidence can be misleading."
+        }
+      ],
+      "resources": [
+        {
+          "title": "An Analytical Study on Political Patronage Corruption in Nepal",
+          "url": "https://www.nepjol.info/index.php/cognition/article/download/74767/57363/216627"
+        },
+        {
+          "title": "Teaching Lateral Reading (Civic Online Reasoning)",
+          "url": "https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/"
+        },
+        {
+          "title": "NEA: Helping Students Spot Misinformation Online",
+          "url": "https://www.nea.org/nea-today/all-news-articles/helping-students-spot-misinformation-online"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Education vs. Experience Debate",
+      "scenario": "Your friend claims that memorizing textbook content is useless for real-world success and that only practical experience matters. They use examples of successful entrepreneurs who dropped out of school to support their argument.",
+      "question": "How do you evaluate this claim?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ask other friends what they think to get a consensus opinion",
+          "correct": false,
+          "feedback": "Seeking consensus without analysis doesn't develop your own critical evaluation abilities."
+        },
+        {
+          "letter": "B",
+          "text": "Agree completely since practical experience is obviously more important than books",
+          "correct": false,
+          "feedback": "This oversimplifies complex factors that contribute to success and ignores the value of foundational knowledge and critical thinking skills."
+        },
+        {
+          "letter": "C",
+          "text": "Disagree completely since education is always necessary for success",
+          "correct": false,
+          "feedback": "This is equally oversimplified and ignores the reality that different paths can lead to different types of success."
+        },
+        {
+          "letter": "D",
+          "text": "Analyze both the benefits of formal education and practical experience for different goals",
+          "correct": true,
+          "feedback": "This recognizes that different types of knowledge and experience serve different purposes, and success depends on multiple factors."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Foundation for Critical Thinking",
+          "url": "https://www.criticalthinking.org"
+        },
+        {
+          "title": "Critical Thinking Resources (University of Louisiana)",
+          "url": "https://advance.louisiana.edu/faculty-resources/helpful-literature-resources/critical-thinking-resources"
+        },
+        {
+          "title": "REBOOT Foundation - Teachers' Guide to Critical Thinking",
+          "url": "https://reboot-foundation.org/resources/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Conflicting Career Information",
+      "scenario": "You're researching career options and find conflicting information online. One source says data science has excellent job prospects in Nepal, while another says the field is oversaturated. Both sources appear professional and well-designed.",
+      "question": "What's your best approach to resolve this contradiction?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Assume both sources are wrong since they contradict each other",
+          "correct": false,
+          "feedback": "Contradictory sources don't mean both are wrong; they may reflect different aspects, time periods, or regions."
+        },
+        {
+          "letter": "B",
+          "text": "Ask your parents which source seems more trustworthy",
+          "correct": false,
+          "feedback": "While parents may have wisdom, they may not have current expertise in evaluating technical career information."
+        },
+        {
+          "letter": "C",
+          "text": "Evaluate the credibility, recency, and methodology of both sources",
+          "correct": true,
+          "feedback": "This systematic approach to evaluating sources considers multiple factors that affect information quality and reliability."
+        },
+        {
+          "letter": "D",
+          "text": "Choose the source that tells you what you want to hear about data science",
+          "correct": false,
+          "feedback": "Confirmation bias leads to poor decisions by filtering information based on preferences rather than accuracy."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Teaching Lateral Reading (Civic Online Reasoning)",
+          "url": "https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/"
+        },
+        {
+          "title": "Civic Online Reasoning Across the Curriculum (ERIC)",
+          "url": "https://files.eric.ed.gov/fulltext/EJ1405276.pdf"
+        },
+        {
+          "title": "Foundation for Critical Thinking",
+          "url": "https://www.criticalthinking.org"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The Viral Video",
+      "scenario": "A short video circulates on TikTok showing a well-known Nepali public figure 'admitting' they took money for a decision. The clip is low-quality, heavily shared, and people in your circle are already calling for punishment.",
+      "question": "What is your most critical first step?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dismiss it automatically because all online videos are fake",
+          "correct": false,
+          "feedback": "Healthy skepticism should still include investigation; some online content is authentic."
+        },
+        {
+          "letter": "B",
+          "text": "Check whether reputable outlets or official sources have verified the clip, and look for signs of manipulation",
+          "correct": true,
+          "feedback": "This applies evidence-based verification: cross-checking, source checking, and manipulation awareness."
+        },
+        {
+          "letter": "C",
+          "text": "Share it to raise awareness before it gets deleted",
+          "correct": false,
+          "feedback": "Sharing first spreads potential misinformation and can harm innocent people before verification."
+        },
+        {
+          "letter": "D",
+          "text": "Assume it is true because many people are sharing it",
+          "correct": false,
+          "feedback": "Popularity is not proof; virality can be driven by emotion, not accuracy."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Teaching Lateral Reading (Civic Online Reasoning)",
+          "url": "https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/"
+        },
+        {
+          "title": "Civic Online Reasoning Across the Curriculum (ERIC)",
+          "url": "https://files.eric.ed.gov/fulltext/EJ1405276.pdf"
+        },
+        {
+          "title": "Media Literacy Now (CNN)",
+          "url": "https://www.cnn.com/2024/01/21/us/teaching-media-literacy-in-schools"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Scholarship Scam Alert",
+      "scenario": "Your friend forwards a message claiming a 'new rule' will immediately cancel all scholarships unless students submit personal details through a random link. The message warns: 'Do it today or you'll lose your chance.'",
+      "question": "What is your best decision-making approach?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ignore it completely without checking, because messages like this are always scams",
+          "correct": false,
+          "feedback": "It may be a scam, but not checking could make you miss real deadlines; verification is better."
+        },
+        {
+          "letter": "B",
+          "text": "Ask a group chat what everyone else is doing and follow the majority",
+          "correct": false,
+          "feedback": "Group responses can be wrong; consensus is not evidence."
+        },
+        {
+          "letter": "C",
+          "text": "Verify through official scholarship/university channels before taking any action",
+          "correct": true,
+          "feedback": "This protects you by validating the claim through authoritative channels."
+        },
+        {
+          "letter": "D",
+          "text": "Fill it out quickly because the risk of missing out is too high",
+          "correct": false,
+          "feedback": "Urgency is a common manipulation tactic; acting fast can lead to fraud or data theft."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Teaching Lateral Reading (Civic Online Reasoning)",
+          "url": "https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/"
+        },
+        {
+          "title": "NEA: Helping Students Spot Misinformation Online",
+          "url": "https://www.nea.org/nea-today/all-news-articles/helping-students-spot-misinformation-online"
+        },
+        {
+          "title": "Media Literacy Resources (CNN)",
+          "url": "https://www.cnn.com/2024/01/21/us/teaching-media-literacy-in-schools"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Antibiotic Misuse",
+      "scenario": "A popular Instagram page claims that 'antibiotics cure most fevers in 24 hours,' and people in your neighborhood start buying antibiotics without prescriptions whenever someone gets sick.",
+      "question": "What is the most critical response?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recommend using antibiotics early 'just in case'",
+          "correct": false,
+          "feedback": "'Just in case' antibiotic use is a major driver of antimicrobial resistance and side effects."
+        },
+        {
+          "letter": "B",
+          "text": "Look for credible medical guidance and explain why misuse can be harmful",
+          "correct": true,
+          "feedback": "This combines evidence-checking with responsible communication."
+        },
+        {
+          "letter": "C",
+          "text": "Say nothing because medical topics are too complicated to discuss",
+          "correct": false,
+          "feedback": "Silence allows misinformation-driven behavior to spread unchecked."
+        },
+        {
+          "letter": "D",
+          "text": "Support it because antibiotics are common and usually work",
+          "correct": false,
+          "feedback": "Many fevers are viral; antibiotics don't treat viruses and misuse increases resistance risk."
+        }
+      ],
+      "resources": [
+        {
+          "title": "WHO - Advice for the public: Coronavirus disease (COVID-19)",
+          "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
+        },
+        {
+          "title": "Foundation for Critical Thinking",
+          "url": "https://www.criticalthinking.org"
+        },
+        {
+          "title": "NEA: Helping Students Spot Misinformation Online",
+          "url": "https://www.nea.org/nea-today/all-news-articles/helping-students-spot-misinformation-online"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Comparing News Sites",
+      "scenario": "Two news sites report opposite conclusions about the same policy. Site A is polished and emotional; Site B is plain-looking but cites documents and data. Your friends say, 'The professional-looking one must be more reliable.'",
+      "question": "What is your best evaluation method?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avoid both because disagreement means both are unreliable",
+          "correct": false,
+          "feedback": "Conflicting reports require deeper evaluation, not total avoidance."
+        },
+        {
+          "letter": "B",
+          "text": "Trust Site B because unpopular sources are usually more honest",
+          "correct": false,
+          "feedback": "Being 'underground' doesn't guarantee accuracy; evidence still matters."
+        },
+        {
+          "letter": "C",
+          "text": "Compare evidence quality: sources, documents, methods, and whether claims can be independently checked",
+          "correct": true,
+          "feedback": "This focuses on verifiability and evidence strength rather than style."
+        },
+        {
+          "letter": "D",
+          "text": "Trust Site A because presentation quality signals credibility",
+          "correct": false,
+          "feedback": "Design can be used to persuade; it is not evidence."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Teaching Lateral Reading (Civic Online Reasoning)",
+          "url": "https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/"
+        },
+        {
+          "title": "Civic Online Reasoning Across the Curriculum (ERIC)",
+          "url": "https://files.eric.ed.gov/fulltext/EJ1405276.pdf"
+        },
+        {
+          "title": "UC Berkeley: Fake News and Media Literacy",
+          "url": "https://teaching.berkeley.edu/fake-news-bringing-media-literacy-classroom"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The Migration Poll",
+      "scenario": "You read a post claiming '90% of young people in Nepal want to leave the country,' based on a poll from one private college in Kathmandu. The post treats it as a national fact.",
+      "question": "What is the most critical interpretation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Share it because it 'feels true' based on your own experience",
+          "correct": false,
+          "feedback": "Personal experience is limited and can reinforce confirmation bias."
+        },
+        {
+          "letter": "B",
+          "text": "Accept it since the number is specific and sounds researched",
+          "correct": false,
+          "feedback": "Specific numbers can still come from weak methods or biased samples."
+        },
+        {
+          "letter": "C",
+          "text": "Reject it because all polls are manipulation",
+          "correct": false,
+          "feedback": "Some polls are rigorous; blanket rejection prevents learning from data."
+        },
+        {
+          "letter": "D",
+          "text": "Question sampling and representativeness before treating it as a national conclusion",
+          "correct": true,
+          "feedback": "This recognizes that who was surveyed matters as much as the result."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Teaching Lateral Reading (Civic Online Reasoning)",
+          "url": "https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/"
+        },
+        {
+          "title": "Differences in decisions affected by cognitive biases (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10485213/"
+        },
+        {
+          "title": "Cognitive Biases in Digital Decision Making",
+          "url": "https://acr-journal.com/article/cognitive-biases-in-digital-decision-making-how-consumers-navigate-information-overload-consumer-behavior--889/"
+        }
+      ]
+    }
+  ]
+}

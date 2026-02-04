@@ -1,0 +1,469 @@
+{
+  "id": 2,
+  "title": "Governance & Civic Responsibility",
+  "subtitle": "Active Citizenship",
+  "description": "Understand your role as an active citizen and learn to engage with governance systems effectively. This module explores how to demand accountability, participate in civic processes, and contribute to transparent, responsive governance.",
+  "completionMessage": "You have learned how to engage with governance systems as an active citizen. You now understand how to demand accountability, participate in civic processes, and contribute to building transparent and responsive governance in your community.",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Community Water Supply Issue",
+      "scenario": "Your local ward office has been promising to fix the community water supply for six months, but nothing has happened. Some neighbors suggest paying a 'facilitation fee' to speed up the process, while others want to file a formal complaint.",
+      "question": "What is the most effective civic approach?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pay the facilitation fee since it will solve the problem quickly",
+          "correct": false,
+          "feedback": "Paying bribes perpetuates corruption and creates expectation of future payments. It doesn't address systemic problems."
+        },
+        {
+          "letter": "B",
+          "text": "Organize community members to file formal complaints and demand transparency",
+          "correct": true,
+          "feedback": "This uses legitimate civic channels and collective action to demand accountability, potentially creating lasting change."
+        },
+        {
+          "letter": "C",
+          "text": "Wait longer since government work always takes time",
+          "correct": false,
+          "feedback": "Passive waiting enables poor governance and doesn't exercise citizen rights and responsibilities."
+        },
+        {
+          "letter": "D",
+          "text": "Contact a local politician you know personally for help",
+          "correct": false,
+          "feedback": "This relies on personal connections rather than transparent systems, reinforcing the 'afno manchhe' network problem."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Public Sector Integrity in Nepal",
+          "url": "https://www.nasc.org.np/sites/default/files/Public%20Sector%20Integrity%20in%20Nepal.pdf"
+        },
+        {
+          "title": "Civil servants' integrity in public sector: the case of Nepal",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9830169/"
+        },
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Evaluating Election Candidates",
+      "scenario": "During local elections, a candidate visits your community promising immediate road construction if elected. They have no detailed plan or budget, but say they have 'connections' that will make it happen quickly.",
+      "question": "How should you evaluate this candidate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vote for them since they're promising what your community needs",
+          "correct": false,
+          "feedback": "Promises without concrete plans often remain unfulfilled. This shows susceptibility to populist appeals."
+        },
+        {
+          "letter": "B",
+          "text": "Research their track record and demand detailed implementation plans",
+          "correct": true,
+          "feedback": "This demonstrates civic responsibility by demanding accountability and evidence-based policy from candidates."
+        },
+        {
+          "letter": "C",
+          "text": "Vote based on which political party they represent",
+          "correct": false,
+          "feedback": "Party loyalty without evaluating individual candidate merit can perpetuate poor governance."
+        },
+        {
+          "letter": "D",
+          "text": "Choose whoever your family and friends are supporting",
+          "correct": false,
+          "feedback": "Social pressure voting doesn't consider policy effectiveness or candidate qualifications."
+        }
+      ],
+      "resources": [
+        {
+          "title": "An Analytical Study on Political Patronage Corruption in Nepal",
+          "url": "https://www.nepjol.info/index.php/cognition/article/download/74767/57363/216627"
+        },
+        {
+          "title": "Patron-Client Politics and Governance System in Nepal",
+          "url": "https://dms.nasc.org.np/sites/default/files/documents/Patron-Client%20Politics%20and%20Governance%20System%20in%20Nepal.pdf"
+        },
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Witnessing Corruption",
+      "scenario": "You witness a government official asking for unofficial payment from an elderly person trying to get their citizenship certificate. The elderly person seems distressed but appears ready to pay to avoid further hassle.",
+      "question": "What is your civic duty in this situation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mind your own business since it doesn't directly affect you",
+          "correct": false,
+          "feedback": "Ignoring corruption when witnessed allows it to continue and affects society as a whole."
+        },
+        {
+          "letter": "B",
+          "text": "Document the incident and report it through proper channels",
+          "correct": true,
+          "feedback": "This takes responsible action against corruption while protecting yourself and creating official record for investigation."
+        },
+        {
+          "letter": "C",
+          "text": "Pay the bribe for the elderly person to help them",
+          "correct": false,
+          "feedback": "While helping the person, this enables corruption and doesn't address the systemic problem."
+        },
+        {
+          "letter": "D",
+          "text": "Confront the official immediately in public",
+          "correct": false,
+          "feedback": "Direct confrontation might help in this case but could be dangerous and might not create systemic change."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Public Sector Integrity in Nepal",
+          "url": "https://www.nasc.org.np/sites/default/files/Public%20Sector%20Integrity%20in%20Nepal.pdf"
+        },
+        {
+          "title": "Civil servants' integrity in public sector: the case of Nepal",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9830169/"
+        },
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Public Consultation Meeting",
+      "scenario": "Your municipality announces a public consultation meeting about a new development project, but schedules it during working hours when most people cannot attend. Only a few community elders and unemployed people can participate.",
+      "question": "What is your best civic response?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Skip the meeting since you can't attend and assume others will represent your interests",
+          "correct": false,
+          "feedback": "Passive non-participation allows decisions to be made without your input and perpetuates exclusion."
+        },
+        {
+          "letter": "B",
+          "text": "Organize a petition requesting rescheduling to ensure broader participation",
+          "correct": true,
+          "feedback": "This advocates for inclusive democratic processes and ensures broader community representation."
+        },
+        {
+          "letter": "C",
+          "text": "Ask the elders to speak on behalf of younger community members",
+          "correct": false,
+          "feedback": "While respectful, this doesn't address the systematic exclusion of working-age citizens from civic processes."
+        },
+        {
+          "letter": "D",
+          "text": "Accept that these meetings are just formalities that don't influence decisions",
+          "correct": false,
+          "feedback": "Cynical disengagement becomes a self-fulfilling prophecy that weakens democratic institutions."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Multiculturalism in Nepal: An approach towards social cohesion and peaceful society",
+          "url": "https://socialchange.org.np/peace-and-social-cohesion-blog-series/multiculturalism-in-nepal-an-approach-towards-social-cohesion-and-peaceful-society/"
+        },
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        },
+        {
+          "title": "UNESCO e-Platform on Intercultural Dialogue",
+          "url": "https://www.unesco.org/interculturaldialogue/en"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Boycott vs. Reform",
+      "scenario": "A popular social media campaign calls for boycotting all government services to protest corruption. Many of your friends are participating, but you need to renew your passport for study abroad applications.",
+      "question": "What demonstrates responsible civic engagement?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Join the boycott completely to show solidarity against corruption",
+          "correct": false,
+          "feedback": "While showing commitment, total boycott might harm your legitimate needs without necessarily creating effective change."
+        },
+        {
+          "letter": "B",
+          "text": "Continue using services while supporting transparency and accountability reforms",
+          "correct": true,
+          "feedback": "This balances immediate practical needs with support for systemic improvements through constructive channels."
+        },
+        {
+          "letter": "C",
+          "text": "Use services secretly while publicly supporting the boycott",
+          "correct": false,
+          "feedback": "Hypocrisy undermines credibility and doesn't contribute to meaningful civic discourse."
+        },
+        {
+          "letter": "D",
+          "text": "Criticize the boycott as unrealistic and ineffective",
+          "correct": false,
+          "feedback": "Dismissing citizen activism without offering alternatives doesn't contribute to solving governance problems."
+        }
+      ],
+      "resources": [
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        },
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        },
+        {
+          "title": "Public Integrity overview (Transparency International Knowledge Hub)",
+          "url": "https://knowledgehub.transparency.org/guide/international-anti-corruption-commitments/8344"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Vague Budget Summary",
+      "scenario": "Your municipality posts a 'public budget summary,' but it is vague and doesn't show line-by-line spending. Many citizens complain online, but nobody submits formal requests.",
+      "question": "What is the most responsible civic action?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accept it since at least something was posted publicly",
+          "correct": false,
+          "feedback": "Partial transparency can still hide misuse; citizens can ask for usable detail."
+        },
+        {
+          "letter": "B",
+          "text": "Request clearer budget details through official channels and encourage community review",
+          "correct": true,
+          "feedback": "This uses constructive accountability methods that can create long-term improvement."
+        },
+        {
+          "letter": "C",
+          "text": "Spread accusations that officials are stealing because the summary is unclear",
+          "correct": false,
+          "feedback": "Unverified accusations polarize and may reduce credibility of legitimate demands."
+        },
+        {
+          "letter": "D",
+          "text": "Give up because government transparency is impossible",
+          "correct": false,
+          "feedback": "Cynicism reduces civic pressure and makes poor governance easier to continue."
+        }
+      ],
+      "resources": [
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        },
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        },
+        {
+          "title": "Public Integrity overview (Transparency International Knowledge Hub)",
+          "url": "https://knowledgehub.transparency.org/guide/international-anti-corruption-commitments/8344"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Suspicious Road Contract",
+      "scenario": "A local road contract is awarded to a company owned by a politician's close associate. People suspect favoritism, but no one can point to specific procurement documents.",
+      "question": "What is the best civic response?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Start a social media campaign accusing everyone involved of corruption",
+          "correct": false,
+          "feedback": "Without evidence, campaigns can become defamation and weaken legitimate accountability."
+        },
+        {
+          "letter": "B",
+          "text": "Seek procurement details (tender criteria, bids, evaluation) and raise concerns based on documented irregularities",
+          "correct": true,
+          "feedback": "Document-based scrutiny is the most credible path to fair oversight."
+        },
+        {
+          "letter": "C",
+          "text": "Ignore it because 'this is how it always works'",
+          "correct": false,
+          "feedback": "Normalizing malpractice guarantees it continues."
+        },
+        {
+          "letter": "D",
+          "text": "Approach the politician privately and ask for a personal favor in exchange for silence",
+          "correct": false,
+          "feedback": "This reinforces patronage and undermines public-interest governance."
+        }
+      ],
+      "resources": [
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        },
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        },
+        {
+          "title": "Public Integrity overview (Transparency International Knowledge Hub)",
+          "url": "https://knowledgehub.transparency.org/guide/international-anti-corruption-commitments/8344"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Fear of Retaliation",
+      "scenario": "Your ward announces a 'citizen complaint box,' but community members fear retaliation if they complain. As a result, only anonymous rumors circulate, and services don't improve.",
+      "question": "What demonstrates responsible civic engagement?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop complaining because retaliation risk is too high",
+          "correct": false,
+          "feedback": "Silence removes accountability pressure and lets problems persist."
+        },
+        {
+          "letter": "B",
+          "text": "Use safer reporting methods: collective complaints, documented evidence, and appropriate oversight channels",
+          "correct": true,
+          "feedback": "This balances safety with action and increases chances of real response."
+        },
+        {
+          "letter": "C",
+          "text": "Confront officials aggressively in public without evidence",
+          "correct": false,
+          "feedback": "Aggression can escalate risk and may not lead to systemic change."
+        },
+        {
+          "letter": "D",
+          "text": "Pay bribes quietly to avoid trouble",
+          "correct": false,
+          "feedback": "Bribery solves one case while making the overall system worse."
+        }
+      ],
+      "resources": [
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        },
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        },
+        {
+          "title": "Public Integrity overview (Transparency International Knowledge Hub)",
+          "url": "https://knowledgehub.transparency.org/guide/international-anti-corruption-commitments/8344"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Vote-Buying Dilemma",
+      "scenario": "During elections, a candidate offers cash or gifts to households. Many neighbors say, 'Take it now; they will steal anyway, so at least we get something.'",
+      "question": "What is the most civic-minded choice?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Take the gift and vote for them to keep a good relationship",
+          "correct": false,
+          "feedback": "Vote-buying damages democracy and reinforces corrupt incentives."
+        },
+        {
+          "letter": "B",
+          "text": "Refuse vote-buying and prioritize merit, track record, and feasible plans",
+          "correct": true,
+          "feedback": "This protects the integrity of elections and rewards competence over manipulation."
+        },
+        {
+          "letter": "C",
+          "text": "Take the gift and vote for someone else secretly",
+          "correct": false,
+          "feedback": "Even if you vote differently, accepting gifts normalizes the practice."
+        },
+        {
+          "letter": "D",
+          "text": "Don't vote at all because all candidates are the same",
+          "correct": false,
+          "feedback": "Non-participation weakens accountability and often benefits the worst actors."
+        }
+      ],
+      "resources": [
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        },
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        },
+        {
+          "title": "Public Integrity overview (Transparency International Knowledge Hub)",
+          "url": "https://knowledgehub.transparency.org/guide/international-anti-corruption-commitments/8344"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Flood Relief Distribution",
+      "scenario": "After a flood, relief materials are distributed. You notice the list of beneficiaries is not posted publicly, and some vulnerable families claim they were skipped.",
+      "question": "What is the most responsible action?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Assume organizers know best and stay silent",
+          "correct": false,
+          "feedback": "Silence can enable unfair distribution and exclude those most in need."
+        },
+        {
+          "letter": "B",
+          "text": "Advocate for transparent beneficiary lists and clear criteria while protecting vulnerable people's dignity and safety",
+          "correct": true,
+          "feedback": "Transparent criteria reduce favoritism while keeping the process humane."
+        },
+        {
+          "letter": "C",
+          "text": "Publicly shame organizers without checking facts",
+          "correct": false,
+          "feedback": "Shaming without verification can inflame tensions and harm trust."
+        },
+        {
+          "letter": "D",
+          "text": "Use personal connections to secure extra relief for your own family",
+          "correct": false,
+          "feedback": "This turns relief into patronage and worsens inequality."
+        }
+      ],
+      "resources": [
+        {
+          "title": "OECD Recommendation on Public Integrity",
+          "url": "https://legalinstruments.oecd.org/api/print?ids=353&lang=en"
+        },
+        {
+          "title": "UNCAC (UN Convention against Corruption)",
+          "url": "https://www.unodc.org/corruption/en/uncac/index.html"
+        },
+        {
+          "title": "Public Integrity overview (Transparency International Knowledge Hub)",
+          "url": "https://knowledgehub.transparency.org/guide/international-anti-corruption-commitments/8344"
+        }
+      ]
+    }
+  ]
+}

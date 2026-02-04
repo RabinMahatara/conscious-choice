@@ -1,0 +1,469 @@
+{
+  "id": 6,
+  "title": "Cultural Balance & Open-mindedness",
+  "subtitle": "Bridging Traditions",
+  "description": "Learn to navigate between tradition and modernity, respecting cultural heritage while embracing positive change. This module helps you develop intercultural competence, challenge harmful stereotypes, and contribute to building inclusive, pluralistic communities.",
+  "completionMessage": "You have learned how to balance cultural tradition with openness to diverse perspectives. You now understand how to respect heritage while promoting inclusivity, challenge stereotypes respectfully, and contribute to building communities that celebrate both continuity and positive change.",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Inter-Ethnic Marriage Dilemma",
+      "scenario": "Your family is arranging a marriage for you with someone from your same caste and economic background. You've fallen in love with someone from a different ethnic group who shares your values and life goals. Your family believes inter-ethnic marriages cause family problems and social complications.",
+      "question": "How do you approach this cultural tension?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Follow family wishes since they have more life experience and cultural wisdom",
+          "correct": false,
+          "feedback": "Complete deference to family might preserve harmony but ignores your personal agency and happiness."
+        },
+        {
+          "letter": "B",
+          "text": "Have open conversations with family about your feelings while respecting their concerns",
+          "correct": true,
+          "feedback": "This balances respect for family with honest communication about your values and feelings."
+        },
+        {
+          "letter": "C",
+          "text": "Secretly marry the person you love without telling your family",
+          "correct": false,
+          "feedback": "Secret marriage might solve immediate problems but creates long-term family estrangement and stress."
+        },
+        {
+          "letter": "D",
+          "text": "Give up the relationship immediately to avoid family conflict",
+          "correct": false,
+          "feedback": "Immediately giving up might be unnecessarily sacrificial and doesn't explore potential solutions."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Multiculturalism in Nepal: An approach towards social cohesion and peaceful society",
+          "url": "https://socialchange.org.np/peace-and-social-cohesion-blog-series/multiculturalism-in-nepal-an-approach-towards-social-cohesion-and-peaceful-society/"
+        },
+        {
+          "title": "UNESCO e-Platform on Intercultural Dialogue",
+          "url": "https://www.unesco.org/interculturaldialogue/en"
+        },
+        {
+          "title": "Interculturalism resources (UNESCO-UNITWIN IDIU)",
+          "url": "https://unitwinidiu.org/interculturalism-resources"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Exclusive Nepali Friend Group",
+      "scenario": "You're studying abroad and your Nepalese friends form an exclusive group that only socializes with other Nepalese students. They criticize you for spending time with international classmates and say you're losing your culture and becoming too westernized.",
+      "question": "What demonstrates healthy cultural balance?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Socialize only with Nepalese friends to maintain your cultural identity",
+          "correct": false,
+          "feedback": "Exclusive cultural isolation limits learning opportunities and cross-cultural understanding."
+        },
+        {
+          "letter": "B",
+          "text": "Engage with diverse international friends while maintaining Nepalese cultural connections",
+          "correct": true,
+          "feedback": "This demonstrates that cultural identity can be maintained while embracing global perspectives and friendships."
+        },
+        {
+          "letter": "C",
+          "text": "Abandon Nepalese friends completely to fully integrate internationally",
+          "correct": false,
+          "feedback": "Complete abandonment of cultural connections might lead to identity confusion and isolation from heritage."
+        },
+        {
+          "letter": "D",
+          "text": "Create separate social circles and never mix different cultural groups",
+          "correct": false,
+          "feedback": "Rigid separation prevents authentic relationships and limits personal growth."
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Evolving Cultural Fabric of Nepal",
+          "url": "https://rubinmuseum.org/the-evolving-cultural-fabric-of-nepal"
+        },
+        {
+          "title": "UNESCO e-Platform on Intercultural Dialogue",
+          "url": "https://www.unesco.org/interculturaldialogue/en"
+        },
+        {
+          "title": "Interculturalism resources (UNESCO-UNITWIN IDIU)",
+          "url": "https://unitwinidiu.org/interculturalism-resources"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Cultural Festival Modernization",
+      "scenario": "During a cultural festival in your community, some young people want to include modern elements like contemporary music alongside traditional performances. Older community members strongly oppose this, saying it will corrupt traditional values and disrespect ancestors.",
+      "question": "How do you approach cultural evolution?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Support only traditional elements to preserve authentic cultural heritage",
+          "correct": false,
+          "feedback": "Rigid traditionalism might preserve specific practices but can make culture seem irrelevant to younger generations."
+        },
+        {
+          "letter": "B",
+          "text": "Advocate for thoughtful integration that honors tradition while allowing cultural growth",
+          "correct": true,
+          "feedback": "This recognizes that healthy cultures evolve while maintaining core values and meaning."
+        },
+        {
+          "letter": "C",
+          "text": "Support complete modernization since traditions must change with times",
+          "correct": false,
+          "feedback": "Complete modernization might lose valuable traditional knowledge and cultural continuity."
+        },
+        {
+          "letter": "D",
+          "text": "Avoid participating in the festival to stay out of the controversy",
+          "correct": false,
+          "feedback": "Avoiding cultural participation doesn't contribute to thoughtful cultural development."
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Impact of Art Culture on the Development of Nepal",
+          "url": "https://aunetwork.org/the-impact-of-art-culture-on-the-development-of-nepal"
+        },
+        {
+          "title": "UNESCO e-Platform on Intercultural Dialogue",
+          "url": "https://www.unesco.org/interculturaldialogue/en"
+        },
+        {
+          "title": "Interculturalism resources (UNESCO-UNITWIN IDIU)",
+          "url": "https://unitwinidiu.org/interculturalism-resources"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Ethnic Discrimination in Group Project",
+      "scenario": "You're working on a group project with classmates from different ethnic backgrounds. Some team members make assumptions about others' capabilities based on their ethnic identity, and there's subtle discrimination in task assignments.",
+      "question": "What promotes inclusive collaboration?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stay quiet to avoid creating tension within the group",
+          "correct": false,
+          "feedback": "Staying silent enables discriminatory behavior to continue and affects group effectiveness."
+        },
+        {
+          "letter": "B",
+          "text": "Address the issue directly and advocate for fair task distribution based on skills",
+          "correct": true,
+          "feedback": "This directly addresses inequality while focusing on merit and effective collaboration."
+        },
+        {
+          "letter": "C",
+          "text": "Form a separate group with people from your own background",
+          "correct": false,
+          "feedback": "Self-segregation doesn't solve the discrimination problem and limits learning opportunities."
+        },
+        {
+          "letter": "D",
+          "text": "Report the discrimination to authorities immediately",
+          "correct": false,
+          "feedback": "While reporting might eventually be necessary, trying direct group resolution first can be more effective."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Nepal's Indigenous Communities Face Systemic Rights Violations",
+          "url": "https://www.culturalsurvival.org/news/nepals-indigenous-communities-face-systemic-rights-violations-amid-development"
+        },
+        {
+          "title": "UNESCO e-Platform on Intercultural Dialogue",
+          "url": "https://www.unesco.org/interculturaldialogue/en"
+        },
+        {
+          "title": "Interculturalism resources (UNESCO-UNITWIN IDIU)",
+          "url": "https://unitwinidiu.org/interculturalism-resources"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Religious Building for Minority Group",
+      "scenario": "Your community is discussing whether to allow construction of a religious building for a minority faith group. Some residents oppose it, fearing it will change the community's character, while others support religious freedom and diversity.",
+      "question": "What promotes healthy pluralism?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oppose the construction to maintain community unity and traditional character",
+          "correct": false,
+          "feedback": "Opposing religious freedom based on fear of change can perpetuate discrimination and limit community diversity."
+        },
+        {
+          "letter": "B",
+          "text": "Support religious freedom while addressing legitimate community planning concerns",
+          "correct": true,
+          "feedback": "This balances religious liberty with practical community planning and inclusive dialogue."
+        },
+        {
+          "letter": "C",
+          "text": "Support the construction regardless of any community concerns",
+          "correct": false,
+          "feedback": "Ignoring legitimate planning concerns might create unnecessary conflict and poor community development."
+        },
+        {
+          "letter": "D",
+          "text": "Stay neutral and let others make the decision",
+          "correct": false,
+          "feedback": "Neutrality on religious freedom issues doesn't contribute to building inclusive communities."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Multiculturalism in Nepal: An approach towards social cohesion and peaceful society",
+          "url": "https://socialchange.org.np/peace-and-social-cohesion-blog-series/multiculturalism-in-nepal-an-approach-towards-social-cohesion-and-peaceful-society/"
+        },
+        {
+          "title": "UNESCO e-Platform on Intercultural Dialogue",
+          "url": "https://www.unesco.org/interculturaldialogue/en"
+        },
+        {
+          "title": "Interculturalism resources (UNESCO-UNITWIN IDIU)",
+          "url": "https://unitwinidiu.org/interculturalism-resources"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Ethnic Leadership Stereotype",
+      "scenario": "Some community members say people from a certain ethnic group are 'naturally not good leaders.' They present it as a cultural truth, not discrimination.",
+      "question": "What promotes cultural balance and open-mindedness?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accept it because elders said it and culture must be respected",
+          "correct": false,
+          "feedback": "Respecting culture does not require accepting prejudice."
+        },
+        {
+          "letter": "B",
+          "text": "Challenge the stereotype respectfully and encourage judging individuals by actions and competence",
+          "correct": true,
+          "feedback": "This supports dignity and fairness while keeping dialogue possible."
+        },
+        {
+          "letter": "C",
+          "text": "Respond with insults against the community members",
+          "correct": false,
+          "feedback": "Insults escalate conflict and reduce learning."
+        },
+        {
+          "letter": "D",
+          "text": "Stay silent because it's not your place",
+          "correct": false,
+          "feedback": "Silence can be interpreted as agreement and allows harm to continue."
+        }
+      ],
+      "resources": [
+        {
+          "title": "UNESCO e-Platform on Intercultural Dialogue",
+          "url": "https://www.unesco.org/interculturaldialogue/en"
+        },
+        {
+          "title": "Interculturalism resources (UNESCO-UNITWIN IDIU)",
+          "url": "https://unitwinidiu.org/interculturalism-resources"
+        },
+        {
+          "title": "UNESCO e-Platform overview article",
+          "url": "https://uscpublicdiplomacy.org/story/unesco-e-platform-intercultural-dialogue"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Festival Tradition vs. Modernity",
+      "scenario": "During a festival, young organizers propose adding a modern performance alongside traditional rituals. Elders accuse them of destroying tradition.",
+      "question": "What is the healthiest approach to cultural evolution?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reject all change because tradition must stay fixed",
+          "correct": false,
+          "feedback": "Rigid preservation can make culture feel disconnected for new generations."
+        },
+        {
+          "letter": "B",
+          "text": "Find a respectful balance: protect core rituals while allowing thoughtful additions",
+          "correct": true,
+          "feedback": "This honors heritage while recognizing that living cultures adapt."
+        },
+        {
+          "letter": "C",
+          "text": "Replace traditional rituals completely because modern is always better",
+          "correct": false,
+          "feedback": "Total replacement can erase meaning and community identity."
+        },
+        {
+          "letter": "D",
+          "text": "Cancel the festival to avoid conflict",
+          "correct": false,
+          "feedback": "Avoidance prevents constructive cultural problem-solving."
+        }
+      ],
+      "resources": [
+        {
+          "title": "UNESCO e-Platform on Intercultural Dialogue",
+          "url": "https://www.unesco.org/interculturaldialogue/en"
+        },
+        {
+          "title": "Interculturalism resources (UNESCO-UNITWIN IDIU)",
+          "url": "https://unitwinidiu.org/interculturalism-resources"
+        },
+        {
+          "title": "UNESCO e-Platform overview article",
+          "url": "https://uscpublicdiplomacy.org/story/unesco-e-platform-intercultural-dialogue"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Nepali-Only Social Pressure Abroad",
+      "scenario": "You are studying abroad and feel pressure from Nepali friends to socialize only within the Nepali group. They say building international friendships means losing culture.",
+      "question": "What demonstrates healthy cultural balance?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only socialize with Nepali friends to prove loyalty",
+          "correct": false,
+          "feedback": "Isolation reduces learning and reinforces fear of difference."
+        },
+        {
+          "letter": "B",
+          "text": "Build diverse friendships while staying connected to your heritage and community",
+          "correct": true,
+          "feedback": "You can protect identity while being open and globally connected."
+        },
+        {
+          "letter": "C",
+          "text": "Cut off Nepali friends completely and avoid Nepali culture",
+          "correct": false,
+          "feedback": "Abandoning heritage can create identity confusion and resentment."
+        },
+        {
+          "letter": "D",
+          "text": "Hide your international friendships to avoid criticism",
+          "correct": false,
+          "feedback": "Secrecy increases stress and prevents honest relationships."
+        }
+      ],
+      "resources": [
+        {
+          "title": "UNESCO e-Platform on Intercultural Dialogue",
+          "url": "https://www.unesco.org/interculturaldialogue/en"
+        },
+        {
+          "title": "Interculturalism resources (UNESCO-UNITWIN IDIU)",
+          "url": "https://unitwinidiu.org/interculturalism-resources"
+        },
+        {
+          "title": "UNESCO e-Platform overview article",
+          "url": "https://uscpublicdiplomacy.org/story/unesco-e-platform-intercultural-dialogue"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Minority Religious Group Worship Request",
+      "scenario": "A minority religious group requests permission to rent a hall for worship. Some neighbors oppose it saying it will 'change our community identity.'",
+      "question": "What promotes pluralism and open-mindedness?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Block it to preserve the majority identity",
+          "correct": false,
+          "feedback": "Blocking rights based on fear encourages discrimination."
+        },
+        {
+          "letter": "B",
+          "text": "Support equal rights while addressing practical concerns fairly (noise, timing, safety)",
+          "correct": true,
+          "feedback": "This is balanced: equal dignity plus realistic community planning."
+        },
+        {
+          "letter": "C",
+          "text": "Support it but ridicule the neighbors as ignorant",
+          "correct": false,
+          "feedback": "Ridicule increases polarization and reduces cooperation."
+        },
+        {
+          "letter": "D",
+          "text": "Stay neutral and avoid involvement",
+          "correct": false,
+          "feedback": "Neutrality can allow unfairness to win by default."
+        }
+      ],
+      "resources": [
+        {
+          "title": "UNESCO e-Platform on Intercultural Dialogue",
+          "url": "https://www.unesco.org/interculturaldialogue/en"
+        },
+        {
+          "title": "Interculturalism resources (UNESCO-UNITWIN IDIU)",
+          "url": "https://unitwinidiu.org/interculturalism-resources"
+        },
+        {
+          "title": "UNESCO e-Platform overview article",
+          "url": "https://uscpublicdiplomacy.org/story/unesco-e-platform-intercultural-dialogue"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Language Exclusion in Team Project",
+      "scenario": "In a group project, people keep switching to a language that excludes one teammate. They claim it's normal and that the teammate should just adjust.",
+      "question": "What is the most inclusive approach?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continue as normal because it's more convenient",
+          "correct": false,
+          "feedback": "Convenience is not a fair reason to exclude someone from collaboration."
+        },
+        {
+          "letter": "B",
+          "text": "Agree on a shared language for teamwork or provide brief translation so everyone can participate",
+          "correct": true,
+          "feedback": "This enables equal participation and strengthens team performance."
+        },
+        {
+          "letter": "C",
+          "text": "Blame the excluded teammate for not fitting in",
+          "correct": false,
+          "feedback": "Victim-blaming normalizes exclusion."
+        },
+        {
+          "letter": "D",
+          "text": "Remove the teammate from the project",
+          "correct": false,
+          "feedback": "Punishing the excluded person is discriminatory and unethical."
+        }
+      ],
+      "resources": [
+        {
+          "title": "UNESCO e-Platform on Intercultural Dialogue",
+          "url": "https://www.unesco.org/interculturaldialogue/en"
+        },
+        {
+          "title": "Interculturalism resources (UNESCO-UNITWIN IDIU)",
+          "url": "https://unitwinidiu.org/interculturalism-resources"
+        },
+        {
+          "title": "UNESCO e-Platform overview article",
+          "url": "https://uscpublicdiplomacy.org/story/unesco-e-platform-intercultural-dialogue"
+        }
+      ]
+    }
+  ]
+}
